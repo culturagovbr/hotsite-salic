@@ -187,7 +187,7 @@
                         <div class="purchase-strip-text">TITULO DO TEXTO DE EXEMPLO <span class="ipurcahse-strip-text">SALIC</span>TESTE</div>
                         <div class="color-4">
                             <p class="ipurchase-paragraph">
-                                <button class="icon-envelope btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150">Faça o Download</button>
+                                <button class="icon-envelope btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150" onclick="window.location.href='DownloadAppSalic.php'">Faça o Download</button>
                             </p>
                         </div>
 
