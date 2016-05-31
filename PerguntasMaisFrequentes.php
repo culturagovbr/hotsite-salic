@@ -53,8 +53,8 @@
             	<div class="bread-heading"><h1>Perguntas mais Frequentes (FAQ)</h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">Pergunta mais Frequentes</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="#">Pergunta mais Frequentes</a></li>
                 </ul>
                 </div>
             </div>

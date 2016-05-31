@@ -55,8 +55,8 @@
                     	<div class="bread-heading"><h1>Seja Bem-vindo ao Salic</h1></div>
                         <div class="bread-crumb pull-right">
                         <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about-us.html">Acesso ao Salic</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="#">Acesso ao Salic</a></li>
                         </ul>
                         </div>
                     </div>
