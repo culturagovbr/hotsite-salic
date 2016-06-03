@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Ministério da Cultura</title>
+<meta name="author" content="sindevo.com">
+<meta name="description" content="web app mobile template">
+<link rel="stylesheet" href="preview/preview.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700,900' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div class="main_content">
+
+
+        <div class="left_content">
+            <h1>Salic Mobile</h1>
+            <span class="description">Apresentação do Novo APP Móvel</span>
+            <p>O mundo digital é uma realidade que domina cada vez mais o ambiente empresarial e surpreende, todos os dias, com novas soluções e abordagens.</p>
+            <a href="#" target="_blank" class="video_button">Veja como ficará seu sistema</a>
+            <h2>Carregue seu modelo</h2>
+            <ul class="designs_list">
+              <li><a href="#" id="main"><span>Modelo 1</span> <img src="preview/images/main.png" alt="" title="" /></a></li>
+              <li><a href="#" id="main"><span>Modelo 2</span> <img src="preview/images/circles.png" alt="" title="" /></a></li>
+              <li><a href="#" id="main"><span>Modelo 3</span> <img src="preview/images/minimal.png" alt="" title="" /></a></li>
+            </ul>
+        </div>
+        
+        <div class="iphone_bg">
+        	<div class="mobile_wrap">
+            <iframe id="frame" frameborder="no" border="0" scrolling="no" width="320px" height="568px;"></iframe> 
+            </div>
+        </div>
+        
+        
+        <div class="right_content">
+            <div class="swipe_to_navigate">Passe/Touch para navegar</div>
+            <h3>Teste no seu Celular!</h3>
+            <img src="preview/images/qrcode.png" alt="" title="" />
+            <small>Desenvolvido por: Jessé Lucas</small>
+            <h3>Mais informações:</h3>
+            <ul class="preview_list">
+              <li>Disposição Responsive</li>
+              <li>Ajax páginas de navegação</li>
+              <li>Leve e Simples</li>
+              <li>HTML5 e CSS3</li>
+              <li>Painel de Acesso</li>
+              
+            </ul>
+        </div> 
+        
+        
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8">
+var $ = jQuery.noConflict(); 
+$(document).ready(function () {
+$("#frame").attr("src", "main/index.html");
+
+$("#main").click(function () { 
+	  $("#frame").attr("src", "main/index.html");
+}); 
+$("#circles").click(function () { 
+	  $("#frame").attr("src", "circles/index.html");
+});
+$("#minimal").click(function () { 
+	  $("#frame").attr("src", "minimal/index.html");
+});
+
+});
+</script>  
+</body>
+</html>

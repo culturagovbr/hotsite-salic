@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
+<link rel="apple-touch-startup-image" href="images/apple-touch-startup-image-320x460.png" />
+<title>Rede Visitante - Ministério da Cultura</title>
+<link rel="stylesheet" href="css/framework7.css">
+<link rel="stylesheet" href="style.css">
+<link type="text/css" rel="stylesheet" href="css/swipebox.css" />
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700,900' rel='stylesheet' type='text/css'>
+</head>
+<body id="mobile_wrap">
+
+    <div class="statusbar-overlay"></div>
+
+    <div class="panel-overlay"></div>
+
+    <div class="panel panel-left panel-cover">
+        <img src="images/Logomarca.png" width="175" height="61">
+              <nav class="list-nav">
+                <ul>
+
+                  <li class="home-icon"><a href="index.html" class="close-panel">Página Inicial</a></li>
+                  <li class="about-icon"><a href="credenciadas.html" class="close-panel">Consulta Livre</a></li>
+                  <!--<li class="about-icon"><a href="#" data-popup=".popup-login" class="open-popup">Rede Credenciada</a></li>-->
+                  <li class="features-icon"><a href="#" data-popup=".popup-favorito" class="open-popup">Login</a></li>
+                  <li class="photos-icon"><a href="#" data-popup=".popup-login" class="open-popup">Legislação</a></li>
+                  <li class="video-icon"><a href="#" data-popup=".popup-ben" class="open-popup">Manuais</a></li>
+                  <li class="video-icon"><a href="videos.html" class="close-panel">Vídeos</a></li>
+                  <li class="blog-icon"><a href="#" class="close-panel">FAQ</a></li>
+                  <li class="blog-icon"><a href="photos.html" class="close-panel">Novidades</a></li>
+                  <li class="contact-icon"><a href="contact.html" class="close-panel">Contato</a></li>
+                </ul>
+              </nav>
+    </div>
+
+    <div class="panel panel-right panel-cover">
+      <div class="user_login_info">
+        <h2>Olá, Usuário</h2>
+        <p>Edite suas configurações de conta</p>
+              <nav class="list-nav-small">
+                <ul>
+                  <li class="about-icon"><a href="about.html" class="close-panel">Profile</a></li>
+                  <li class="tools-icon"><a href="features.html" class="close-panel">Settings</a></li>
+                  <li class="lock-icon"><a href="features.html" class="close-panel">Account</a></li>
+                  <li class="envelope-icon"><a href="features.html" class="close-panel">Messages</a></li>
+                  <li class="heart-icon"><a href="features.html" class="close-panel">Favorites</a></li>
+                  <li class="download-icon"><a href="features.html" class="close-panel">Downloads</a></li>
+                  <li class="logout-icon"><a href="index.html" class="close-panel">Logout</a></li>
+                </ul>
+              </nav>
+      </div>
+    </div>
+
+    <div class="views">
+
+      <div class="view view-main">
+
+        <div class="navbar">
+          <div class="navbar-inner">
+            <div class="left sliding"><div class="logo_title">Salic Mobile</div></div>
+            <div class="right menu_open_icon"><a href="#" data-panel="left" class="link icon-only open-panel"></a></div>
+          </div>
+        </div>
+
+        <div class="pages navbar-through toolbar-through">
+
+          <div data-page="index" class="page homepage">
+            <div class="page-content">
+
+                  <!-- Slider -->
+                  <div class="swiper-container swiper-init" data-effect="coverflow" data-pagination=".swiper-pagination">
+                    <div class="swiper-wrapper">
+
+                      <div class="swiper-slide">
+                          <span style="text-align: center"> &nbsp;Bem-vindo  </span>
+                          <span class="subtitle">ao Salic Mobile - MinC</span>
+                          <a href="about.html" class="swiper_read_more" style="background-color: #FF9500; color: #ffffff;">CIDADÃO - Consulta Livre</a>
+                          <a href="about.html" class="swiper_read_more" style="background-color: #2a6496; color: #ffffff;">PROPONENTE - Login </a>
+                      </div>
+                      <div class="swiper-slide">
+                          <span><img src="images/banner_salic_mobile.png"></span>
+                          <span class="subtitle"> Novidade no app Salic</span>
+                          <!--<a href="features.html" class="swiper_read_more">Veja mais</a>  -->                    </div>
+                      <div class="swiper-slide">
+                          <span><img src="images/banner_cartilha_mobile.png"></span>
+                          <span class="subtitle">Nossa cartilha de Informativo</span>
+                          <a href="#" class="swiper_read_more open-panel">Visualizar o arquivo</a>                      </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                  </div>
+            </div>
+          </div>
+        </div>
+        <!-- Bottom Toolbar-->
+        <div class="toolbar">
+              <div class="toolbar-inner">
+              <ul class="toolbar_icons icons_4row">
+              <li><a href="#" data-popup=".popup-login" class="open-popup"><img src="images/icons/white/home.png" alt="" title="" /></a></li>
+              <li><a href="videos.html"><img src="images/icons/white/video.png" alt="" title="" /></a></li>
+              <li><a href="photos.html"><img src="images/icons/white/tools.png" alt="" title="" /></a></li>
+              <li><a href="#" data-popup=".popup-social" class="open-popup"><img src="images/icons/white/facebook.png" alt="" title="" /></a></li>
+              </ul>
+              </div>
+        </div>
+
+
+      </div>
+    </div>
+
+
+   <!-- Login Favorito-->
+    <div class="popup popup-favorito">
+        <div class="content-block">
+            <h4>Rede Credenciada</h4>
+            <h1>Digite o seu CPF para ter acesso ao seu CIB digital e seus favoritos</h1>
+            <div class="loginform">
+                <form id="LoginForm" method="post">
+                    <br>
+                    <input type="radio" name="gender" value="male"> Jessé da Silva Lucas<br>
+                    <input type="radio" name="gender" value="female"> Cecilia Rodrigues dos Santos<br>
+                    <label>CPF:</label>
+                    <input type="text" name="Username" value="" class="form_input required" />
+
+                    <input type="submit" name="submit" class="form_submit" id="submit" value="Entrar" />
+                </form>
+            </div>
+            <div class="close_popup_button_gray"><a href="#" class="close-popup">Fechar</a></div>
+        </div>
+    </div>
+
+    <!-- Pesquisa por CEP -->
+    <div class="popup popup-cep">
+    <div class="content-block">
+      <h4>Rede Credenciada</h4>
+            <div class="loginform">
+            <form id="LoginForm" method="post">
+            <label>Encontre por um CEP:</label>
+            <input type="text" name="Username" value="" class="form_input required" />
+
+            <input type="submit" name="submit" class="form_submit" id="submit" value="Pesquisar" />
+            </form>
+            </div>
+      <div class="close_popup_button_gray"><a href="#" class="close-popup">Fechar</a></div>
+    </div>
+    </div>
+
+
+    <!-- Pesquisa por Nome-->
+    <div class="popup popup-nome">
+        <div class="content-block">
+            <h4>Rede Credenciada</h4>
+            <div class="loginform">
+                <form id="LoginForm" method="post">
+                    <label>Encontre pelo nome:</label>
+                    <input type="text" name="Username" value="" class="form_input required" />
+
+                    <input type="submit" name="submit" class="form_submit" id="submit" value="Pesquisar" />
+                </form>
+            </div>
+            <div class="close_popup_button_gray"><a href="#" class="close-popup">Fechar</a></div>
+        </div>
+    </div>
+
+    <!-- Autorização -->
+    <div class="popup popup-login">
+        <div class="content-block">
+            <h4>Autorizações</h4>
+            <h1>Digite o seu CPF para ter acesso ao seu CIB digital e suas Autorizações</h1>
+            <div class="loginform">
+                <form id="LoginForm" method="post">
+                    <br>
+                    <input type="radio" name="gender" value="male"> Jessé da Silva Lucas<br>
+                    <input type="radio" name="gender" value="female"> Cecilia Rodrigues dos Santos<br>
+                    <label>CPF:</label>
+                    <input type="text" name="Username" value="" class="form_input required" />
+
+                    <input type="submit" name="submit" class="form_submit" id="submit" value="Entrar" />
+                </form>
+            </div>
+            <div class="close_popup_button_gray"><a href="#" class="close-popup">Fechar</a></div>
+        </div>
+    </div>
+
+
+    <!-- Cartão do Beneficiario -->
+    <div class="popup popup-ben">
+        <div class="content-block">
+            <h4>Cartão do Beneficiário</h4>
+
+            <div class="loginform">
+                <img src="images/cartao-cib.jpg" style="text-align: center">
+            </div>
+            <div class="close_popup_button_gray"><a href="#" class="close-popup">Fechar</a></div>
+        </div>
+    </div>
+    <!-- Services Popup -->
+    <div class="popup popup-social">
+    <div class="content-block">
+      <h4>Redes Sociais</h4>
+      <p>solução ícones de compartilhamento que permite compartilhar e aumentar a sua popularidade sociais.</p>
+      <ul class="social_share">
+      <li><a href="#"><img src="images/icons/white/twitter.png" alt="" title="" /></a></li>
+      <li><a href="#"><img src="images/icons/white/facebook.png" alt="" title="" /></a></li>
+      <li><a href="#"><img src="images/icons/white/googleplus.png" alt="" title="" /></a></li>
+      <li><a href="#"><img src="images/icons/white/dribbble.png" alt="" title="" /></a></li>
+      <li><a href="#"><img src="images/icons/white/linkedin.png" alt="" title="" /></a></li>
+      <li><a href="#"><img src="images/icons/white/pinterest.png" alt="" title="" /></a></li>
+      </ul>
+      <div class="close_popup_button"><a href="#" class="close-popup">Fechar</a></div>
+    </div>
+    </div>
+
+<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+<script src="js/jquery.validate.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/framework7.min.js"></script>
+<script type="text/javascript" src="js/my-app.js"></script>
+<script type="text/javascript" src="js/jquery.swipebox.js"></script>
+<script type="text/javascript" src="js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="js/email.js"></script>
+
+<script>
+
+    var page_size_check = null, q_body;
+    (q_body = $('#body')).bind('DOMSubtreeModified', function() {
+        if (page_size_check === null) {
+            return;
+        }
+        page_size_check = setTimeout(function() {
+            q_body.css('height', '');
+            if (q_body.height() < window.innerHeight) {
+                q_body.css('height', window.innerHeight + 'px');
+            }
+            if (!(window.pageYOffset > 1)) {
+                window.scrollTo(0, 1);
+            }
+            page_size_check = null;
+        }, 400);
+    });
+</script>
+  </body>
+</html>

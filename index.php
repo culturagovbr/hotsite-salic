@@ -31,6 +31,7 @@
     		<div id="loader-overlay"><img src="images/loader.gif" alt="Loading" /></div>
 
             <header>
+                
 
             <div class="header-bg">
                         <?php include "barraTopoSite.php"; ?>
