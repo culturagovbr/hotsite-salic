@@ -50,11 +50,11 @@
     	<div class="container">
     <!--Title / Beadcrumb-->
          	<div class="inner-page-title-wrap col-xs-12 col-md-12 col-sm-12">
-            	<div class="bread-heading"><h1>Perguntas mais Frequentes (FAQ)</h1></div>
+            	<div class="bread-heading"><h1>         </h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="#">Pergunta mais Frequentes</a></li>
+                <li><a href="#">Números</a></li>
                 </ul>
                 </div>
             </div>
@@ -72,33 +72,21 @@
 				<div class="col-md-12 col-sm-12 col-lg-12 col-xs-12 faq-tabs-wrap wow fadeInUp animated" data-wow-delay="0.5s" data-wow-offset="200">
                     
               <!-- tabs left -->
-
               <div class="tabbable tabs-left">
-                <ul class="nav nav-tabs col-md-4 col-sm-4 col-xs-5">
-                  <li class="active"><a href="#a" data-toggle="tab"><span class="faq-ques">Análise Inicial</span><i class="right-arr"></i></a></li>
-                  <li><a href="#b" data-toggle="tab"><span class="faq-ques">Acompanhamento da Execução</span><i class="right-arr"></i></a></li>
-                  <li><a href="#c" data-toggle="tab"><span class="faq-ques">Prestação de Contas: Análise do Cumprimento do Objeto</span><i class="right-arr"></i></a></li>
-                  <!--<li><a href="#d" data-toggle="tab"><span class="faq-ques">Prestação de Contas: Análise do Cumprimento do Objeto</span><i class="right-arr"></i></a></li>
-                  <li><a href="#e" data-toggle="tab"><span class="faq-ques">Clinic si adipiscing elit?</span><i class="right-arr"></i></a></li>
-                  <li><a href="#f" data-toggle="tab"><span class="faq-ques">dolor sit ametiscing elit?</span><i class="right-arr"></i></a></li>
-                  <li><a href="#g" data-toggle="tab"><span class="faq-ques">Outpat dolor sit am elit?</span><i class="right-arr"></i></a></li>
-                  <li><a href="#h" data-toggle="tab"><span class="faq-ques">Clinic dolor si elit?</span><i class="right-arr"></i></a></li>
-                  <li><a href="#i" data-toggle="tab"><span class="faq-ques">Outpat dolor sit am elit?</span><i class="right-arr"></i></a></li>
-                  <li><a href="#j" data-toggle="tab"><span class="faq-ques">Surgery adipiscing elit?</span><i class="right-arr"></i></a></li>
-                  <li><a href="#k" data-toggle="tab"><span class="faq-ques">Outpat dolor sit am elit?</span><i class="right-arr"></i></a></li>
-                  <li><a href="#l" data-toggle="tab"><span class="faq-ques">Surgery adipiscing elit?</span><i class="right-arr"></i></a></li>-->
-                  
-                </ul>
+
                 
-                <div class="tab-content col-md-8 col-sm-8 col-xs-7 pull-right">
+                <div class="tab-content col-md-12 col-sm-8 col-xs-7 ">
                 
                  <div class="tab-pane active" id="a">
-                    <div class="dept-title-tabs">Dolor sit amet adipiscing elit?</div>
-                    <p>Integer iaculis egestas odio, vel dictum turpis placerat id ellentesque semper nisl eget odio eleifend, nec blandit libero porta aliquam vel vehicula dui nam sit amet ultricies sapien.</p>
-                    <p>Nulla euismod vitae justo a ullamcorper. In rhoncus nisi massa, sit amet tristique augue viverra vitae. Ut vitae lectus quam. Proin aliquet rhoncus magna vel scelerisque. Nulla facilisi. Aliquam ut scelerisque nulla.</p>
-                    <p>Integer iaculis egestas odio, vel dictum turpis placerat id ellentesque semper nisl eget odio eleifend, nec blandit libero porta aliquam vel vehicula dui nam sit amet ultricies sapien.</p>
-                    <p>Nulla euismod vitae justo a ullamcorper. In rhoncus nisi massa, sit amet tristique augue viverra vitae. Ut vitae lectus quam. Proin aliquet rhoncus magna vel scelerisque. Nulla facilisi. Aliquam ut scelerisque nulla.</p>
-                    
+                    <div class="dept-title-tabs">Números</div>
+                    <p>Tenha em mãos as informações dos projetos beneficiados pela Lei Rouanet.<br>
+                        <a href="http://sistemas.cultura.gov.br/comparar/salicnet/salicnet.php" target="_blank"> Salic net</a><br>
+                        Consultas a proponentes e seus projetos, valores captados, incentivadores e muito mais.<br>
+                        <br>Para viabilizar transparência e facilitar o acesso aos dados do mecanismo do Incentivo Fiscal da Lei Rouanet, acesse o Salic net. Você encontra informações dos projetos incentivados, dos proponentes responsáveis pelos projetos culturais, dos incentivadores que patrocinam ou doam recursos aos projetos e realiza múltiplas consultas e comparativos por ano, por região, por estado, entre outros.
+                        <br>A pesquisa por projetos pode ser feita utilizando um ou mais dos filtros. Não é necessário o preenchimento completo dos campos, por exemplo, caso você não saiba o nome completo do projeto, o sistema lista os projetos com aquele termo.
+                        <br> Outra facilidade, o sistema tem prévias pesquisas cadastradas, como lista dos maiores captadores e dos maiores incentivadores, entre outras.
+                    </p>
+
                  </div>
                  
                  <div class="tab-pane" id="b">

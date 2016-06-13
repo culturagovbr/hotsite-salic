@@ -32,21 +32,22 @@ echo "
 
                                   <ul class=\"nav navbar-nav navbar-right\">
                             <li class=\"active\"><a href=\"index.php\"><i class=\"icon-home\"></i>Home</a></li>
-                            <li><a href=\"Legislacao.php\">Legislação</a></li>
-                            <li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><i class=\"icon-file\"></i>Vídeos<b class=\"icon-angle-down\"></b></a>
-                                <ul class=\"dropdown-menu\">
-                                    <li><a href=\"Video.php\">Video 1</a></li>
-                                    <li><a href=\"Video.php\">Video 2</a></li>
-                                    <li><a href=\"Video.php\">Video 3</a></li>
-                                    <li><a href=\"Video.php\">Video 4</a></li>
-                                    <li><a href=\"Video.php\">Video 5</a></li>
-                                  </ul>
+
+                            <li><a href=\"MenuPrimeirosPassos.php\">Primeiros Passos</a></li>
+
+                            <li><a href=\"Normativos.php\">Normativos</a></li>
+
+                            <li><a href=\"PerguntasMaisFrequentes.php\">Dúvidas</a></li>
+
+                            <li><a href=\"Manuais.php\">Tutoriais</a></li>
+
+                            <li><a href=\"MenuInformativos.php\">Informativos</a></li>
+
+                            <li><a href=\"Numeros.php\">Números</a></li>
+
+                            <li><a href=\"MenuAtendimento.php\">Atendimento</a>
+
                             </li>
-                            <li><a href=\"PerguntasMaisFrequentes.php\">Perguntas Frequentes</a></li>
-                            <li><a href=\"Manuais.php\">Manuais</a></li>
-                            <li><a href=\"#\">Novidades</a></li>
-                            <li><a href=\"AcessoSalic.php\">Acesse o Salic</a></li>
-                            <li><a href=\"Contato.php\">Fale Conosco</a></li>
 
                           </ul>
                                 </div><!-- /.navbar-collapse -->

@@ -107,10 +107,19 @@
                     </div>
 
                     <!--BANNER INFORMATIVO-->
+                    <!--Icon-box-start-->
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
-
-                         <div><img src="images/foto_banner.png"> </div>
-
+                        <div class="icon-box-3 wow fadeInDown" data-wow-delay="0.9s" data-wow-offset="150">
+                            <div><img src="images/foto_noticia.png"> </div>
+                            <div class="icon-box2-title">Título da Notícia</div>
+                            <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                            <!--<section class="color-10">
+                                <nav class="cl-effect-10">
+                                <a href="#" data-hover="Read More"><span>Read More</span></a>
+                                </nav>
+                            </section>-->
+                            <div class="iconbox-readmore"><a href="#">Leia mais</a></div>
+                        </div>
                     </div>
 
                 </div>
@@ -132,40 +141,33 @@
                             <div class="float-right col-lg-7 col-sm-7 col-md-7 col-xs-12">
 
                                 <div class="iconlist-wrap">
-                                <div class="subtitle notViewed wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="20">Faça o <span class="iconlist-mid-title">download </span> do Salic Mobile </div>
+                                <div class="subtitle notViewed wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="20">Baixe agora <span class="iconlist-mid-title">o aplicativo </span> do Salic </div>
                                 <ul>
                                 	<li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="50">
                                 	<i class="icon-file icon-list-icons"></i>
                                 	<div class="iconlist-content">
 
-                                    	<div class="iconlist-title">Título do Texto</div>
-                                        <p class="iconlist-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-        doloremque laudantium, totam rem aperiam. </p>
+                                    	<div class="iconlist-title">App Salic</div>
+                                        <p class="iconlist-text">A maneira mais fácil de acessar as informações de seus projetos diretamente do seu celular ou tablet. Já disponível nas plataformas Android e IOS </p>
                                     </div>
 
                                 	</li>
 
-                                    <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="60">
-                                	<i class="fa fa-file icon-list-icons"></i>
-                                	<div class="iconlist-content">
 
-                                    	<div class="iconlist-title">Título do Texto</div>
-                                        <p class="iconlist-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-        doloremque laudantium, totam rem aperiam. </p>
-                                    </div>
+                                    <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="50">
 
-                                	</li>
+                                        <div class="iconlist-content">
 
-                                    <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="70">
-                                	<i class="fa fa-file-archive-o icon-list-icons"></i>
-                                	<div class="iconlist-content">
+                                            <a href="#"> <img src="images/mobileMono.png"> </a>
+                                        </div>
 
-                                    	<div class="iconlist-title">Título do Texto</div>
-                                        <p class="iconlist-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-        doloremque laudantium, totam rem aperiam. </p>
-                                    </div>
-                                	</li>
+                                    </li>
+
+
+
+
                                 </ul>
+
                                 </div>
 
 
@@ -399,7 +401,7 @@
                  <div class="cl-wrap icl-wrap">
                  <div class="container">
 
-                 <div class="row">
+                 <!--<div class="row">
                      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pull-left client-logo-flex wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="100">
 
         	             <ul id="clients-carousel" class="icl-carousel">
@@ -412,7 +414,7 @@
         	            </ul>
 
                      </div>
-                 </div>
+                 </div>-->
 
                  </div></div>
 
