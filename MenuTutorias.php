@@ -8,7 +8,6 @@
 
 echo "<div class=\"container\">
 
-
             <div class=\"col-md-12 col-sm-12 col-lg-12 col-xs-12 dept-tabs-wrap wow fadeInUp animated\" data-wow-delay=\"1s\" data-wow-offset=\"200\">
 
               <!-- tabs left -->
@@ -33,67 +32,65 @@ echo "<div class=\"container\">
 
                  <div class=\"fade tab-pane active in\" id=\"a\">
                     <div class=\"dept-title-tabs\">Administrativo</div><br>
-                    <iframe src=\"manuais/Administrativo.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Administrativo.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"b\">
                  <div class=\"dept-title-tabs\">Comprovação Financeira do Projeto</div><br>
-                    <iframe src=\"manuais/ComprovacaofinanceiradoProjeto.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
-                    </div>
+                    <object data=\"manuais/ComprovacaofinanceiradoProjeto.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
+                </div>
 
                  <div class=\"tab-pane fade\" id=\"c\">
                  <div class=\"dept-title-tabs\">Envio de Marcas</div>
-                    <iframe src=\"manuais/Envio_de_Marcas.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Envio_de_Marcas.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"d\">
                  <div class=\"dept-title-tabs\">Projeto</div>
-                    <iframe src=\"manuais/Projeto.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Projeto.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"e\">
                  <div class=\"dept-title-tabs\">Proposta</div>
-                    <iframe src=\"manuais/Proposta.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                     <object data=\"manuais/Proposta.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"f\">
                  <div class=\"dept-title-tabs\">Prorrogação da Captação</div>
-                    <iframe src=\"manuais/Prorrogacao_da_Captacao.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Prorrogacao_da_Captacao.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"g\">
                  <div class=\"dept-title-tabs\">Readequação</div>
-                    <iframe src=\"manuais/Readequacao.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Readequacao.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"h\">
                  <div class=\"dept-title-tabs\">Readequação 20%</div>
-                    <iframe src=\"manuais/Readequacao_20.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Readequacao_20.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"i\">
                  <div class=\"dept-title-tabs\">Recurso</div>
-                    <iframe src=\"manuais/Recurso.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Recurso.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"j\">
                  <div class=\"dept-title-tabs\">Relatório de Comprovação do Objeto</div>
-                    <iframe src=\"manuais/Relatorio_de_Comprovacao_do_Objeto.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Relatorio_de_Comprovacao_do_Objeto.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"k\">
                  <div class=\"dept-title-tabs\">Relatório Trimestral</div>
-                    <iframe src=\"manuais/Relatorio_Trimestral.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Relatorio_Trimestral.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                  <div class=\"tab-pane fade\" id=\"l\">
                  <div class=\"dept-title-tabs\">Proponente Diligência</div>
-                    <iframe src=\"manuais/Responder_Diligencia.pdf\" width=\"100%\" height=\"1000px\" frameborder=\"0\"></iframe>
+                    <object data=\"manuais/Responder_Diligencia.pdf\" type=\"application/pdf\" width=\"100%\" height=\"1000px\" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
 
                 </div>
-
-
 
                 <div class=\"sidebar-wrap-dept col-md-4 col-sm-4 col-xs-12 no-pad wow fadeInUp animated\" data-wow-delay=\"1s\" data-wow-offset=\"200\">
 
