@@ -23,7 +23,7 @@ echo "
                             <span class=\"sr-only\">Menu de Navegação</span>
                           </button>
 
-                          <a href=\"index.php\"><img src=\"images\logo.png\"></a>
+                          <a href=\"index.php\"><img src=\"images/logo.png\"></a>
                         </div>
 
                                 <!-- Collect the nav links, forms, and other content for toggling -->
