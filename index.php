@@ -187,7 +187,7 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 pull-right">
                         <div class="purchase-strip-blue pull-right col-sm-12 col-md-12 col-xs-12 pull-left notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150">
-                        <div class="purchase-strip-text">TITULO DO TEXTO DE EXEMPLO <span class="ipurcahse-strip-text">SALIC</span>TESTE</div>
+                        <div class="purchase-strip-text">Faça seu download do aplicativo do  <span class="ipurcahse-strip-text">Salic </span>aqui!</div>
                         <div class="color-4">
                             <p class="ipurchase-paragraph">
                                 <button class="icon-envelope btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150" onclick="window.location.href='DownloadAppSalic.php'">Faça o Download</button>
@@ -218,7 +218,7 @@
                         <div class="post-item-wrap pull-left col-sm-6 col-md-12 col-xs-12">
                             <img src="images/news-1.jpg" class="img-responsive post-author-img" alt="" />
                             	<div class="post-content1 pull-left col-md-9 col-sm-9 col-xs-8">
-        	                        <div class="post-title pull-left"><a href="#">Texto para apresentação</a></div>
+        	                        <div class="post-title pull-left"><a href="Tutoriais.php">Manual do Proponente</a></div>
         	                        <div class="post-meta-top pull-left">
         	                            <ul>
         	                            <li><i class="icon-calendar"></i>25 MAIO 2016</li>
@@ -227,16 +227,17 @@
         	                        </div>
                                 </div>
                                 <div class="post-content2 pull-left">
-                                	<p>Integer iaculis egestas odio, vel dictum turpis placerat id elle se nisl eget odio eleifend, nec blandit libero porta aliquam vel veh dui nam sit amet ultricies sapien.<br />
-                                	<span class="post-meta-bottom"><a href="">Continua lendo...</a></span></p>
+                                	<p>O presente guia trata das questões operacionais relacionadas ao Sistema SALIC,
+                                        envolvendo procedimentos a serem observados pelo usuário.<br />
+                                	<span class="post-meta-bottom"><a href="Tutoriais.php">Continua lendo...</a></span></p>
                          		</div>
                          </div>
 
                          <!--Post item-->
                         <div class="post-item-wrap pull-left col-sm-6 col-md-12 col-xs-12">
-                            <img src="images/news-1.jpg" class="img-responsive post-author-img" alt="" />
+                            <img src="images/news-2.jpg" class="img-responsive post-author-img" alt="" />
                             <div class="post-content1 pull-left col-md-9 col-sm-9 col-xs-8">
-        	                        <div class="post-title pull-left"><a href="#">Texto para apresentação</a></div>
+        	                        <div class="post-title pull-left"><a href="Tutoriais.php">Envio de Marcas</a></div>
         	                        <div class="post-meta-top pull-left">
         	                            <ul>
         	                            <li><i class="icon-calendar"></i>25 MAIO 2016</li>
@@ -245,158 +246,25 @@
         	                        </div>
                                 </div>
                                 <div class="post-content2 pull-left">
-                                	<p>Integer iaculis egestas odio, vel dictum turpis placerat id elle se nisl eget odio eleifend, nec blandit libero porta aliquam vel veh dui nam sit amet ultricies sapien.<br />
-                                	<span class="post-meta-bottom"><a href="">Continua lendo...</a></span></p>
+                                	<p>Para facilitar o entendimento do sistema por parte dos usuários foi desenvolvido o
+                                        presente manual. Este documento visa apresentar as novas telas do Sistema SALIC e
+                                        suas respectivas funcionalidades...<br />
+                                	<span class="post-meta-bottom"><a href="Tutoriais.php">Continua lendo...</a></span></p>
                          		</div>
                          </div>
 
-                         <a href="#" class="dept-details-butt posts-showall">Todos os Manuais</a>
+                         <a href="Tutoriais.php" class="dept-details-butt posts-showall">Todos os Manuais</a>
 
                         </div>
                     </div>
-
-
-
-
                  <!--Latest Post End-->
-
                  <!--Departments Start-->
-
-                    <div class="col-xs-12 col-sm-12 col-md-6 pull-right department-wrap wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="100">
-
-                    <div class="subtitle pull-left">Área do <strong>Desenvolvedor</strong></div>
-
-                        <div id="imedica-dep-accordion">
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-angle-down dept-icon"></i><span class="dep-txt">Texto do Menu do Desenvolvedor</span></h3>
-                            <div>
-
-                                <img src="images/dep-dummy.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Texto para o portal do SALIC</div>
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-
-
-                                <a href="#" class="dept-details-butt">Detalhe</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Visualizar</button>
-                                    </p>
-                                </div></div>
-
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-angle-down dept-icon"></i><span class="dep-txt">Texto do Menu do Desenvolvedor</span></h3>
-                            <div>
-                                <img src="images/dep-dummy.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Texto para o portal do SALIC</div>
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-
-                                <a href="#" class="dept-details-butt">Detalhe</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Visualizar</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-angle-down dept-icon"></i><span class="dep-txt">Texto do Menu do Desenvolvedor</span></h3>
-                            <div>
-                               <img src="images/dep-dummy.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Texto para o portal do SALIC</div>
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-
-                                <a href="#" class="dept-details-butt">Detalhe</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Visualizar</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-angle-down dept-icon"></i><span class="dep-txt">Texto do Menu do Desenvolvedor</span></h3>
-                            <div>
-                                <img src="images/dep-dummy.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Texto para o portal do SALIC</div>
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-
-                                <a href="#" class="dept-details-butt">Detalhe</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Visualizar</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-angle-down dept-icon"></i><span class="dep-txt">Texto do Menu do Desenvolvedor</span></h3>
-                            <div>
-                                <img src="images/dep-dummy.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Texto para o portal do SALIC</div>
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-
-                                <a href="#" class="dept-details-butt">Detalhe</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Visualizar</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item -->
-                            <h3 class="last-child-ac ilast-child-acc"><i class="icon-angle-down dept-icon"></i><span class="dep-txt">Texto do Menu do Desenvolvedor</span></h3>
-                            <div>
-                               <img src="images/dep-dummy.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Texto para o portal do SALIC</div>
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-
-                                <a href="#" class="dept-details-butt">Details</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Appointment</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-
-                        </div>
-
-
+                    <div class="subtitle pull-left">Novidades do <strong>Salic</strong></div>
+                            <img src="images/Banner_Home.png">
                     </div>
-
                  <!--Departments End-->
                  </div>
                  </div>
-
-        <!--Counter Start-->
-
-
-
-        <!--Counter End-->
-        <!--Testimonail Wrap-->
-
-
-        <!--Testimonail Wrap-->
-
 
                  <div class="cl-wrap icl-wrap">
                  <div class="container">

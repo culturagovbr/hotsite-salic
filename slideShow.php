@@ -50,7 +50,7 @@ echo "
                         data-easing=\"Back.easeOut\"
                         data-endspeed=\"400\"
                         data-endeasing=\"Power1.easeIn\"
-                        >Acesso a sistemas | Manuais <br> Dúvidas frequentes | Vídeos <br> Novidades | Legislação
+                        >Acesso a sistemas - Manuais  <br>Dúvidas frequentes - Vídeos - Novidades <br>Legislação
                     </div>
 
 

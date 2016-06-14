@@ -24,7 +24,7 @@ echo "
                     	<div class=\"ifb-face ifb-front\" style=\"background-color: #cccccc\">
                     		<div class=\"flip-box-icon\">
 								<div class=\" \" data-animation=\"\" data-animation-delay=\"03\">
-                                    <img src=\"images/img_foto.png\">
+                                    <img src=\"images/img_manuais.png\">
 								</div>
                             </div>
 
@@ -53,7 +53,7 @@ echo "
                     	<div class=\"ifb-face ifb-front\" style=\"background-color: #cccccc\">
                     		<div class=\"flip-box-icon\">
 								<div class=\" \" data-animation=\"\" data-animation-delay=\"03\">
-                                    <img src=\"images/img_foto.png\">
+                                    <img src=\"images/img_cartilha.png\">
 								</div>
                             </div>
 
@@ -64,7 +64,7 @@ echo "
 							<div class=\"ifb-face ifb-back flip-backface\">
                                 <h3>Cartilhas</h3>
 
-                                <div class=\"flip_link\"><a href=\"Normativos.php\" class=\"flip-read-more\">Veja mais!</a></div>
+                                <div class=\"flip_link\"><a href=\"Cartilha.php\" class=\"flip-read-more\">Veja mais!</a></div>
                             </div><!-- END .back -->
 
                        </div> <!-- ifb-flip-box -->
@@ -82,7 +82,7 @@ echo "
                     	<div class=\"ifb-face ifb-front\" style=\"background-color: #cccccc\">
                     		<div class=\"flip-box-icon\">
 								<div class=\" \" data-animation=\"\" data-animation-delay=\"03\">
-                                    <img src=\"images/img_foto.png\">
+                                    <img src=\"images/img_videos.png\">
 								</div>
                             </div>
 
@@ -93,7 +93,7 @@ echo "
 							<div class=\"ifb-face ifb-back flip-backface\">
                                 <h3>Vídeos</h3>
 
-                                <div class=\"flip_link\"><a href=\"Normativos.php\" class=\"flip-read-more\">Veja mais!</a></div>
+                                <div class=\"flip_link\"><a href=\"#\" class=\"flip-read-more\">Veja mais!</a></div>
                             </div><!-- END .back -->
 
                        </div> <!-- ifb-flip-box -->
