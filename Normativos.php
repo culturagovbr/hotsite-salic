@@ -53,8 +53,9 @@
             	<div class="bread-heading"><h1>         </h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.php">Primeiros Passos</a></li>
-                <li><a href="#">Normativos</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="MenuPrimeirosPassos.php">Primeiros Passos</a></li>
+                    <li><a href="#">Normativos</a></li>
                 </ul>
                 </div>
             </div>

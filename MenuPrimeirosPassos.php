@@ -49,8 +49,8 @@
             	<div class="bread-heading"><h1>    </h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="#">Primeiros Passos</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="#">Primeiros Passos</a></li>
                 </ul>
                 </div>
             </div>

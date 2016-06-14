@@ -48,13 +48,14 @@
      
      <div class="bread-crumb-wrap ibc-wrap-4">
     	<div class="container">
-    <!--Title / Beadcrumb-->
+            <!--Title / Beadcrumb-->
          	<div class="inner-page-title-wrap col-xs-12 col-md-12 col-sm-12">
             	<div class="bread-heading"><h1>Primeiras Orientações</h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.php">Primeiros Passos</a></li>
-                <li><a href="#">Pergunta mais Frequentes</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="MenuPrimeirosPassos.php">Primeiros Passos</a></li>
+                    <li><a href="PrimeirasOrientacoes.php">Primeiras Orientações</a></li>
                 </ul>
                 </div>
             </div>
@@ -73,7 +74,7 @@
                     
               <!-- tabs left -->
               <div class="tabbable tabs-left">
-                <ul class="nav nav-tabs col-md-4 col-sm-4 col-xs-5">
+<!--                <ul class="nav nav-tabs col-md-4 col-sm-4 col-xs-5">
                   <li class="active"><a href="#a" data-toggle="tab"><span class="faq-ques">Dolor sit amet elit?</span><i class="right-arr"></i></a></li>
                   <li><a href="#b" data-toggle="tab"><span class="faq-ques">Cardiac amet elit?</span><i class="right-arr"></i></a></li>
                   <li><a href="#c" data-toggle="tab"><span class="faq-ques">Surgery consectetur  elit?</span><i class="right-arr"></i></a></li>
@@ -87,12 +88,12 @@
                   <li><a href="#k" data-toggle="tab"><span class="faq-ques">Outpat dolor sit am elit?</span><i class="right-arr"></i></a></li>
                   <li><a href="#l" data-toggle="tab"><span class="faq-ques">Surgery adipiscing elit?</span><i class="right-arr"></i></a></li>
 
-                </ul>
+                </ul>-->
                 
-                <div class="tab-content col-md-8 col-sm-8 col-xs-7 pull-right">
+                <div class="tab-content col-md-12 col-sm-12 col-xs-7 pull-right">
                 
                  <div class="tab-pane active" id="a">
-                    <div class="dept-title-tabs">Primeiras Orientações</div>
+                    <div class="dept-title-tabs">Orientações</div>
                     <p>Para iniciar o primeiro projeto com recursos do mecanismo de Incentivo Fiscal da Lei Rouanet, seguem alguns passos iniciais.<br><br>
                         1 -	Leia a Lei Rouanet que fornece as diretrizes de alocação e de uso dos mecanismos de fomento e Incentivo à cultura e institui o Programa Nacional de Apoio à Cultura (PRONAC): Lei 8.313/91
                         <br><br>
