@@ -71,7 +71,7 @@
                     	<div class="ifb-face ifb-front" style="background-color: #cccccc">
                     		<div class="flip-box-icon">
 								<div class=" " data-animation="" data-animation-delay="03">
-                                    <img src="images/img_foto.png">
+                                    <img src="images/img_orientacoes.png">
 								</div>
                             </div>
                             
@@ -100,7 +100,7 @@
                     	<div class="ifb-face ifb-front" style="background-color: #cccccc">
                     		<div class="flip-box-icon">
 								<div class=" " data-animation="" data-animation-delay="03">
-                                    <img src="images/img_foto.png">
+                                    <img src="images/img_normativos.png">
 								</div>
                             </div>
                             
