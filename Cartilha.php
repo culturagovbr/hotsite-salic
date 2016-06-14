@@ -79,7 +79,7 @@
                 
                  <div class="tab-pane active" id="a">
                     <div class="dept-title-tabs">Cartilha do Proponente</div>
-                        <object data="manuais/Cartilha.pdf" type="application/pdf" width="100%" height="1000px" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
+                        <object data="cartilhas/Cartilha.pdf" type="application/pdf" width="100%" height="1000px" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
                  
                  <div class="tab-pane" id="b">
