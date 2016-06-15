@@ -259,7 +259,8 @@
                     </div>
                  <!--Latest Post End-->
                  <!--Departments Start-->
-                    <div class="subtitle pull-left">Novidades do <strong>Salic</strong></div>
+                    <div class="subtitle pull-left">“Tenha em mãos as respostas às principais perguntas sobre o processo cultural no MinC:
+                        desde a análise inicial à prestação de contas.”</div>
                             <img src="images/Banner_Home.png">
                     </div>
                  <!--Departments End-->

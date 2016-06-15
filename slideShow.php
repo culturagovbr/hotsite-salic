@@ -36,7 +36,7 @@ echo "
                         data-easing=\"Back.easeOut\"
                         data-endspeed=\"400\"
                         data-endeasing=\"Power1.easeIn\"
-                        >Novo site do Salic! Tudo sobre<br> Incentivo Fiscal em um só lugar.
+                        >Novo site do Salic! <h2>Tudo sobre Incentivo Fiscal em um só lugar.</h2>
                     </div>
 
 
@@ -50,7 +50,7 @@ echo "
                         data-easing=\"Back.easeOut\"
                         data-endspeed=\"400\"
                         data-endeasing=\"Power1.easeIn\"
-                        >Acesso a sistemas - Manuais  <br>Dúvidas frequentes - Vídeos - Novidades <br>Legislação
+                        ><h3>Acesso a sistemas - Manuais  - Dúvidas frequentes - Vídeos <br>Novidades Legislação</h3>
                     </div>
 
 
@@ -67,7 +67,7 @@ echo "
                         >  </div>
 
 
-                    <!-- LAYER NR. 8 -->
+                    <!-- LAYER NR. 8
                     <div class=\"tp-caption s1-but customin skewtoright imed-sl1\"
                         data-x=\"center\"
                         data-y=\"365\"
@@ -78,7 +78,7 @@ echo "
                         data-easing=\"Back.easeOut\"
                         data-endspeed=\"400\"
                         data-endeasing=\"Power1.easeIn\"
-                        ><a href=\"#\">Veja mais</a></div>
+                        ><a href=\"#\">Veja mais</a></div>-->
 
 
 
@@ -147,7 +147,7 @@ echo "
                         >  </div>
 
 
-                    <!-- LAYER NR. 8 -->
+                    <!-- LAYER NR. 8
                    <div class=\"tp-caption s1-but customin skewtoright imed-sl1\"
                         data-x=\"center\"
                         data-y=\"365\"
@@ -158,7 +158,7 @@ echo "
                         data-easing=\"Back.easeOut\"
                         data-endspeed=\"400\"
                         data-endeasing=\"Power1.easeIn\"
-                        ><a href=\"#\">Veja mais</a></div>
+                        ><a href=\"#\">Veja mais</a></div>-->
              </li>
 
 
