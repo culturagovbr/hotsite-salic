@@ -50,13 +50,13 @@
     	<div class="container">
     <!--Title / Beadcrumb-->
          	<div class="inner-page-title-wrap col-xs-12 col-md-12 col-sm-12">
-            	<div class="bread-heading"><h1>         </h1></div>
-                <div class="bread-crumb pull-right">
-                <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="#">Números</a></li>
-                </ul>
-                </div>
+            	<div class="bread-heading"><h1>Números</h1></div>
+<!--                <div class="bread-crumb pull-right">
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="#">Números</a></li>
+                    </ul>
+                </div>-->
             </div>
          </div>
      </div>
@@ -78,7 +78,7 @@
                 <div class="tab-content col-md-12 col-sm-8 col-xs-7 ">
                 
                  <div class="tab-pane active" id="a">
-                    <div class="dept-title-tabs">Números</div>
+<!--                    <div class="dept-title-tabs">Números</div>-->
                     <p>Tenha em mãos as informações dos projetos beneficiados pela Lei Rouanet.<br>
                         <a href="http://sistemas.cultura.gov.br/comparar/salicnet/salicnet.php" target="_blank"> Salic net</a><br>
                         Consultas a proponentes e seus projetos, valores captados, incentivadores e muito mais.<br>

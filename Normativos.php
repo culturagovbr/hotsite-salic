@@ -50,14 +50,14 @@
     	<div class="container">
     <!--Title / Beadcrumb-->
          	<div class="inner-page-title-wrap col-xs-12 col-md-12 col-sm-12">
-            	<div class="bread-heading"><h1>         </h1></div>
-                <div class="bread-crumb pull-right">
+            	<div class="bread-heading"><h1>Normativos</h1></div>
+<!--                <div class="bread-crumb pull-right">
                 <ul>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="MenuPrimeirosPassos.php">Primeiros Passos</a></li>
                     <li><a href="#">Normativos</a></li>
                 </ul>
-                </div>
+                </div>-->
             </div>
          </div>
      </div>
@@ -79,7 +79,7 @@
                 <div class="tab-content col-md-12 col-sm-8 col-xs-7 ">
                 
                  <div class="tab-pane active" id="a">
-                    <div class="dept-title-tabs">Normativos</div>
+                    <!--<div class="dept-title-tabs">Normativos</div>-->
                     <p>Atente-se à legislação aplicável ao mecanismo de incentivo fiscal da Lei Rouanet. Cartilhas, treinamentos e oficinas são muito importantes, mas a leitura dos normativos é fundamental. </p>
                     <p>Segue lista dos principais normativos para sua leitura.</p>
                      <table border="1" cellspacing="0" cellpadding="0" class="table-elements">

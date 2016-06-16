@@ -50,13 +50,13 @@
     	<div class="container">
     <!--Title / Beadcrumb-->
          	<div class="inner-page-title-wrap col-xs-12 col-md-12 col-sm-12">
-            	<div class="bread-heading"><h1>         </h1></div>
-                <div class="bread-crumb pull-right">
-                <ul>
-                <li><a href="Manuais.php">Manuais</a></li>
-                <li><a href="#">Cartilha do Proponente</a></li>
-                </ul>
-                </div>
+            	<div class="bread-heading"><h1>Cartilha do Proponente</h1></div>
+<!--                <div class="bread-crumb pull-right">
+                    <ul>
+                        <li><a href="Manuais.php">Manuais</a></li>
+                        <li><a href="#">Cartilha do Proponente</a></li>
+                    </ul>
+                </div>-->
             </div>
          </div>
      </div>
@@ -78,7 +78,7 @@
                 <div class="tab-content col-md-12 col-sm-8 col-xs-7 ">
                 
                  <div class="tab-pane active" id="a">
-                    <div class="dept-title-tabs">Cartilha do Proponente</div>
+<!--                    <div class="dept-title-tabs">Cartilha do Proponente</div>-->
                         <object data="cartilhas/Cartilha.pdf" type="application/pdf" width="100%" height="1000px" ><p>O seu navegador não tem um plugin pra visualizar documentos PDF.</p></object>
                  </div>
                  

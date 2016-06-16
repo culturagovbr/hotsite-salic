@@ -43,9 +43,6 @@ echo "
 
                         <!--Foot widget-->
                         <div class=\"col-xs-12 col-sm-6 col-md-3 foot-widget\">
-                        	<div class=\"foot-widget-title\">newsletter</div>
-                        	<p>Deseja receber informações sobre o SALIC</p>
-                            <div class=\"news-subscribe\"><input type=\"text\" class=\"news-tb\" placeholder=\"Digite seu e-mail\" /><button class=\"news-button\">Assinar</button></div>
                             <div class=\"foot-widget-title\">Redes Sociais</div>
                             <div class=\"social-wrap\">
                                 <ul>

@@ -46,13 +46,13 @@
     	<div class="container">
     <!--Title / Beadcrumb-->
          	<div class="inner-page-title-wrap col-xs-12 col-md-12 col-sm-12">
-            	<div class="bread-heading"><h1>    </h1></div>
-                <div class="bread-crumb pull-right">
+            	<div class="bread-heading"><h1>Primeiros Passos</h1></div>
+<!--                <div class="bread-crumb pull-right">
                 <ul>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="#">Primeiros Passos</a></li>
                 </ul>
-                </div>
+                </div>-->
             </div>
          </div>
      </div>
@@ -60,7 +60,7 @@
 		        <div class="container iflip">
         	<div class="row">
             
-<div class="col-md-12 col-xs-12 col-sm-12 pull-left subtitle ibg-transparent">Primeiros Passos</div>
+<!--<div class="col-md-12 col-xs-12 col-sm-12 pull-left subtitle ibg-transparent">Primeiros Passos</div>-->
                 
                <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12"> 
                

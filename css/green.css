@@ -5979,7 +5979,7 @@ p {
     line-height: 1.3em;
     float: left;
     padding: 5px 0px;
-    border-bottom: 3px solid
+    /*border-bottom: 3px solid*/
 }
 .bread-crumb {
     line-height: 2.2em;

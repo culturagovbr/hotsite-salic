@@ -46,151 +46,22 @@
     	<div class="container">
     <!--Title / Beadcrumb-->
          	<div class="inner-page-title-wrap col-xs-12 col-md-12 col-sm-12">
-            	<div class="bread-heading"><h1>    </h1></div>
-                <div class="bread-crumb pull-right">
-                <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="#">Informativos</a></li>
-                </ul>
-                </div>
+            	<div class="bread-heading"><h1>Notícias</h1></div>
+<!--                <div class="bread-crumb pull-right">
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="#">Informativos</a></li>
+                    </ul>
+                </div>-->
             </div>
          </div>
      </div>
         
-		        <div class="container iflip">
-        	<div class="row">
-            
-<div class="col-md-12 col-xs-12 col-sm-12 pull-left subtitle ibg-transparent">Notícias</div>
-                
-               <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12"> 
-               
-			<div class="flip-box-wrap">
-            	<div class="flip-box auto horizontal_flip_left" data-animation="" data-animation-delay="03" >
-                	<div class="ifb-flip-box">
-                    
-                    	<div class="ifb-face ifb-front" style="background-color: #cccccc">
-                    		<div class="flip-box-icon">
-								<div class=" " data-animation="" data-animation-delay="03">
-                                    <img src="images/img_foto.png">
-								</div>
-                            </div>
-                            
-                            <h3 class="flip-box-head-txt">Titulo do Texto</h3>
-                            <p>Para iniciar o primeiro projeto com recursos do mecanismo de Incentivo Fiscal da Lei Rouanet, seguem alguns passos iniciais...</p>
-                        </div><!-- END .front -->
-                        
-							<div class="ifb-face ifb-back flip-backface">
-                                <h3>Titulo do Texto</h3>
-                                <p>Para iniciar o primeiro projeto com recursos do mecanismo de Incentivo Fiscal da Lei Rouanet, seguem alguns passos iniciais...</p>
-                                <div class="flip_link"><a href="PrimeirasOrientacoes.php" class="flip-read-more">Veja mais!</a></div>
-                            </div><!-- END .back -->
-                            
-                       </div> <!-- ifb-flip-box -->
-                  </div> <!-- flip-box -->
-              </div>
-              </div>
-              
-              
-               <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12"> 
-               
-			<div class="flip-box-wrap">
-            	<div class="flip-box auto horizontal_flip_left" data-animation="" data-animation-delay="03" >
-                	<div class="ifb-flip-box">
-                    
-                    	<div class="ifb-face ifb-front" style="background-color: #cccccc">
-                    		<div class="flip-box-icon">
-								<div class=" " data-animation="" data-animation-delay="03">
-                                    <img src="images/img_foto.png">
-								</div>
-                            </div>
-                            
-                            <h3 class="flip-box-head-txt">Titulo do Texto</h3>
-                            <p>Atente-se à legislação aplicável ao mecanismo de incentivo fiscal da Lei Rouanet. Cartilhas, treinamentos e oficinas são...</p>
-                        </div><!-- END .front -->
-                        
-							<div class="ifb-face ifb-back flip-backface">
-                                <h3>Titulo do Texto</h3>
-                                <p>Atente-se à legislação aplicável ao mecanismo de incentivo fiscal da Lei Rouanet. Cartilhas, treinamentos e oficinas são</p>
-                                <div class="flip_link"><a href="Normativos.php" class="flip-read-more">Veja mais!</a></div>
-                            </div><!-- END .back -->
-                            
-                       </div> <!-- ifb-flip-box -->
-                  </div> <!-- flip-box -->
-              </div>
-              </div>
-              
-              
-              
-              
-               <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+        <div class="container iflip">
 
-                   <div class="flip-box-wrap">
-                       <div class="flip-box auto horizontal_flip_left" data-animation="" data-animation-delay="03" >
-                           <div class="ifb-flip-box">
-
-                               <div class="ifb-face ifb-front" style="background-color: #cccccc">
-                                   <div class="flip-box-icon">
-                                       <div class=" " data-animation="" data-animation-delay="03">
-                                           <img src="images/img_foto.png">
-                                       </div>
-                                   </div>
-
-                                   <h3 class="flip-box-head-txt">Titulo do Texto</h3>
-                                   <p>Para iniciar o primeiro projeto com recursos do mecanismo de Incentivo Fiscal da Lei Rouanet, seguem alguns passos iniciais...</p>
-                               </div><!-- END .front -->
-
-                               <div class="ifb-face ifb-back flip-backface">
-                                   <h3>Titulo do Texto</h3>
-                                   <p>Para iniciar o primeiro projeto com recursos do mecanismo de Incentivo Fiscal da Lei Rouanet, seguem alguns passos iniciais...</p>
-                                   <div class="flip_link"><a href="PrimeirasOrientacoes.php" class="flip-read-more">Veja mais!</a></div>
-                               </div><!-- END .back -->
-
-                           </div> <!-- ifb-flip-box -->
-                       </div> <!-- flip-box -->
-                   </div>
-              </div>
-              
-              
-              
-              
-               <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-
-                   <div class="flip-box-wrap">
-                       <div class="flip-box auto horizontal_flip_left" data-animation="" data-animation-delay="03" >
-                           <div class="ifb-flip-box">
-
-                               <div class="ifb-face ifb-front" style="background-color: #cccccc">
-                                   <div class="flip-box-icon">
-                                       <div class="" data-animation="" data-animation-delay="03">
-                                           <img src="images/img_foto.png">
-                                       </div>
-                                   </div>
-
-                                   <h3 class="flip-box-head-txt">Titulo do Texto</h3>
-                                   <p>Para iniciar o primeiro projeto com recursos do mecanismo de Incentivo Fiscal da Lei Rouanet, seguem alguns passos iniciais...</p>
-                               </div><!-- END .front -->
-
-                               <div class="ifb-face ifb-back flip-backface">
-                                   <h3>Titulo do Texto</h3>
-                                   <p>Para iniciar o primeiro projeto com recursos do mecanismo de Incentivo Fiscal da Lei Rouanet, seguem alguns passos iniciais...</p>
-                                   <div class="flip_link"><a href="PrimeirasOrientacoes.php" class="flip-read-more">Veja mais!</a></div>
-                               </div><!-- END .back -->
-
-                           </div> <!-- ifb-flip-box -->
-                       </div> <!-- flip-box -->
-                   </div>
-              </div>
-              
-              
-                        
-                        
-        
-        </div>
-        
-        
         <div class="row">
 
-<div class="col-md-12 col-xs-12 col-sm-12 pull-left subtitle ibg-transparent">Divulgações</div>
+            <div class="col-md-12 col-xs-12 col-sm-12 pull-left subtitle ibg-transparent">Divulgações</div>
 
                <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
 
