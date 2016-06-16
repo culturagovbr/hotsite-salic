@@ -144,7 +144,7 @@
                                 <div class="subtitle notViewed wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="20">Baixe agora <span class="iconlist-mid-title">o aplicativo </span> do Salic </div>
                                 <ul>
                                 	<li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="50">
-                                	<i class="icon-file icon-list-icons"></i>
+                                	<i class="revicon-equalizer icon-list-icons"></i>
                                 	<div class="iconlist-content">
 
                                     	<div class="iconlist-title">App Salic</div>
@@ -259,8 +259,7 @@
                     </div>
                  <!--Latest Post End-->
                  <!--Departments Start-->
-                    <div class="subtitle pull-left">“Tenha em mãos as respostas às principais perguntas sobre o processo cultural no MinC:
-                        desde a análise inicial à prestação de contas.”</div>
+                    <div class="subtitle pull-left">  Acesse nosso FAQ   </div>
                             <img src="images/Banner_Home.png">
                     </div>
                  <!--Departments End-->

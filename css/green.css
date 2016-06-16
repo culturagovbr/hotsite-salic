@@ -15178,4 +15178,30 @@ input[type="date"] {
     transition: all .3s;
 }
 
+table {
+    width:100%;
+    border-radius:0px !important;
+    border:0px !important;
+    border-collapse:collapse !important;
+}
 
+th {
+    color:#fff;
+    background:#467add;
+    border-radius:0px !important;
+    border:1px solid #365eab !important;
+    font-weight:normal !important;
+    padding:15px 20px !important;
+}
+
+td {
+    color:#83adff;
+    background:#FFC926;
+    border-radius:0px !important;
+    border:1px solid #666666 !important;
+    padding:15px 20px !important;
+}
+
+table a:hover{
+    text-decoration:none;
+}
