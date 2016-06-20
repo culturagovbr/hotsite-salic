@@ -16,9 +16,9 @@ echo "
 
                         <address class=\"foot-address\">
                         	<div class=\"col-xs-12 no-pad\"><i class=\"icon-globe address-icons\"></i>Ministério da Cultura <br />Esplanada dos Ministérios,  <br />Bloco B CEP: 70068-900 – Brasília/DF</div>
-                            <div class=\"col-xs-12 no-pad\"><i class=\"icon-phone2 address-icons\"></i>(61) 2024-0001</div>
-                            <div class=\"col-xs-12 no-pad\"><i class=\"icon-file address-icons\"></i>(61) 2024-2501</div>
-                            <div class=\"col-xs-12 no-pad\"><i class=\"icon-mail address-icons\"></i>contato@cultura.gov.br</div>
+                            <div class=\"col-xs-12 no-pad\"><i class=\"icon-phone2 address-icons\"></i>(61) 2024-2098</div>
+                            <div class=\"col-xs-12 no-pad\"><i class=\"icon-phone2 address-icons\"></i>(61) 2024-2249</div>
+                            <div class=\"col-xs-12 no-pad\"><i class=\"icon-mail address-icons\"></i>proposta.incentivo@cultura.gov.br</div>
                         </address>
                         </div>
 

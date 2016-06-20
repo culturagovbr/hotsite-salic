@@ -79,13 +79,7 @@
                 
                  <div class="tab-pane active" id="a">
 <!--                    <div class="dept-title-tabs">Números</div>-->
-                    <p>Tenha em mãos as informações dos projetos beneficiados pela Lei Rouanet.<br>
-                        <a href="http://sistemas.cultura.gov.br/comparar/salicnet/salicnet.php" target="_blank"> Salic net</a><br>
-                        Consultas a proponentes e seus projetos, valores captados, incentivadores e muito mais.<br>
-                        <br>Para viabilizar transparência e facilitar o acesso aos dados do mecanismo do Incentivo Fiscal da Lei Rouanet, acesse o Salic net. Você encontra informações dos projetos incentivados, dos proponentes responsáveis pelos projetos culturais, dos incentivadores que patrocinam ou doam recursos aos projetos e realiza múltiplas consultas e comparativos por ano, por região, por estado, entre outros.
-                        <br>A pesquisa por projetos pode ser feita utilizando um ou mais dos filtros. Não é necessário o preenchimento completo dos campos, por exemplo, caso você não saiba o nome completo do projeto, o sistema lista os projetos com aquele termo.
-                        <br> Outra facilidade, o sistema tem prévias pesquisas cadastradas, como lista dos maiores captadores e dos maiores incentivadores, entre outras.
-                    </p>
+                    <p>   <a href="http://sistemas.cultura.gov.br/comparar/salicnet/salicnet.php" target="_blank"> <img src="images/Numeros.png">  </a> </p>
 
                  </div>
                  

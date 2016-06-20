@@ -30,16 +30,38 @@ echo "
                                 <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">
 
 
-                                  <ul class=\"nav navbar-nav navbar-right\">
+                      <ul class=\"nav navbar-nav navbar-right\">
                             <li class=\"active\"><a href=\"index.php\"><i class=\"icon-home\"></i>Home</a></li>
 
-                            <li><a href=\"MenuPrimeirosPassos.php\">Primeiros Passos</a></li>
+                            <li><a href=\"PrimeirasOrientacoes.php\">Primeiros Passos</a></li>
 
                             <li><a href=\"Normativos.php\">Normativos</a></li>
 
-                            <li><a href=\"PerguntasMaisFrequentes.php\">Dúvidas</a></li>
+                           <!-- <li><a href=\"PerguntasMaisFrequentes.php\">Dúvidas</a></li> -->
 
-                            <li><a href=\"Manuais.php\">Tutoriais</a></li>
+                            <li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><i class=\"icon-cog\"></i>Dúvidas<b class=\"icon-angle-down\"></b></a>
+                                <ul class=\"dropdown-menu\">
+                                    <li><a href=\"#\">Análise Inicial</a></li>
+                                    <li><a href=\"#\">Acompanhamento da Execução</a></li>
+                                    <li><a href=\"#\">Prestação de Contas: Análise do Cumprimento do Objeto</a></li>
+                                    <li><a href=\"#\">Prestação de Contas: Financeira</a></li>
+
+
+                                  </ul>
+                            </li>
+
+
+
+
+                            <li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><i class=\"icon-cog\"></i>Tutoriais<b class=\"icon-angle-down\"></b></a>
+                                <ul class=\"dropdown-menu\">
+                                    <li><a href=\"Tutoriais.php\">Manuais</a></li>
+                                    <li><a href=\"Cartilha.php\">Cartilha</a></li>
+
+
+                                  </ul>
+                            </li>
+
 
                             <li><a href=\"MenuInformativos.php\">Informativos</a></li>
 
@@ -49,7 +71,7 @@ echo "
 
                             </li>
 
-                          </ul>
+                      </ul>
                                 </div><!-- /.navbar-collapse -->
 
 

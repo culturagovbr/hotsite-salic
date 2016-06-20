@@ -64,9 +64,9 @@
                 	<!--Icon-box-start-->
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                      <div class="icon-box-3 wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="150">
-                    	<div><img src="images/foto_noticia.png"> </div>
-                        <div class="icon-box2-title">Título da Notícia</div>
-                        <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                    	<div><img src="images/dica_1.png"> </div>
+                        <div class="icon-box2-title">Atente-se ao nome de sua Proposta Cultural!</div>
+                        <p>O título deve dar ideia concisa e clara do que será realizado e fazer referência ao objeto do seu projeto cultural...</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
@@ -79,9 +79,9 @@
                     <!--Icon-box-start-->
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                      <div class="icon-box-3 wow fadeInDown" data-wow-delay="0.9s" data-wow-offset="150">
-                         <div><img src="images/foto_noticia.png"> </div>
-                        <div class="icon-box2-title">Título da Notícia</div>
-                        <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                         <div><img src="images/dica_2.png"> </div>
+                        <div class="icon-box2-title">Ao escrever o resumo da sua proposta cultural</div>
+                        <p>O resumo do seu projeto cultural deve descrever o que se pretende realizar em no máximo 5 linhas, limitado ao...</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
@@ -94,9 +94,9 @@
                     <!--Icon-box-start-->
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                      <div class="icon-box-3 wow fadeInUp" data-wow-delay="1.2s" data-wow-offset="150">
-                         <div><img src="images/foto_noticia.png"> </div>
-                        <div class="icon-box2-title">Título da Notícia</div>
-                        <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                         <div><img src="images/dica_3.png"> </div>
+                        <div class="icon-box2-title">Todos os seus objetivos descritos serão avaliados</div>
+                        <p>Os objetivos devem ser formulados com intuito de especificar aquilo que se quer atingir a partir da realização do...</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
@@ -110,9 +110,9 @@
                     <!--Icon-box-start-->
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                         <div class="icon-box-3 wow fadeInDown" data-wow-delay="0.9s" data-wow-offset="150">
-                            <div><img src="images/foto_noticia.png"> </div>
-                            <div class="icon-box2-title">Título da Notícia</div>
-                            <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                            <div><img src="images/dica_4.png"> </div>
+                            <div class="icon-box2-title">Desenvolva a prestação de contas ao longo </div>
+                            <p>A prestação de contas do projeto traduz toda sua implementação. Desta maneira, adequados planejamento e...</p>
                             <!--<section class="color-10">
                                 <nav class="cl-effect-10">
                                 <a href="#" data-hover="Read More"><span>Read More</span></a>
@@ -123,8 +123,11 @@
                     </div>
 
                 </div>
+                    <a href="#" class="btn btn-warning">Visualizar Todas as Dicas do Salic</a><br><br>
                 </div>
+
             </div><!--Icon Boxes 1 end-->
+
 
 
 
@@ -147,8 +150,13 @@
                                 	<i class="revicon-equalizer icon-list-icons"></i>
                                 	<div class="iconlist-content">
 
-                                    	<div class="iconlist-title">App Salic</div>
-                                        <p class="iconlist-text">A maneira mais fácil de acessar as informações de seus projetos diretamente do seu celular ou tablet. Já disponível nas plataformas Android e IOS </p>
+                                    	<div class="iconlist-title">Salic Mobile</div>
+                                        <p class="iconlist-text">Aplicativo para visualização das informações financeiras e dados básicos do projeto!
+                                            SALIC mobile permite acessar de qualquer projeto cultural aprovado no Ministério da Cultura!
+                                            <br><br>
+                                            O aplicativo do Ministério da Cultura oferece aos proponentes e a sociedade civil, uma forma prática e ágil, de consultar informações financeiras e os dados básicos de projetos culturais, por meio de dispositivos móveis, tais como smartphones e tablets, sendo assim tem-se um novo canal de comunicação com  proponentes, incentivadores, fazedores de cultura, sociedade cultural e o cidadão.
+                                        </p>
+
                                     </div>
 
                                 	</li>
@@ -187,7 +195,7 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 pull-right">
                         <div class="purchase-strip-blue pull-right col-sm-12 col-md-12 col-xs-12 pull-left notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150">
-                        <div class="purchase-strip-text">Faça seu download do aplicativo do  <span class="ipurcahse-strip-text">Salic </span>aqui!</div>
+                        <div class="purchase-strip-text">Faça seu download do aplicativo  <span class="ipurcahse-strip-text">Salic mobile </span>aqui!</div>
                         <div class="color-4">
                             <p class="ipurchase-paragraph">
                                 <button class="icon-envelope btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150" onclick="window.location.href='DownloadAppSalic.php'">Faça o Download</button>
@@ -259,7 +267,7 @@
                     </div>
                  <!--Latest Post End-->
                  <!--Departments Start-->
-                    <div class="subtitle pull-left">  Acesse nosso FAQ   </div>
+                    <div class="subtitle pull-left">  Dúvidas   </div>
                             <img src="images/Banner_Home.png">
                     </div>
                  <!--Departments End-->
