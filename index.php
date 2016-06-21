@@ -268,7 +268,7 @@
                  <!--Latest Post End-->
                  <!--Departments Start-->
                     <div class="subtitle pull-left">  Dúvidas   </div>
-                            <img src="images/Banner_Home.png">
+                            <a href="#" ><img src="images/Banner_Home.png"></a>
                     </div>
                  <!--Departments End-->
                  </div>

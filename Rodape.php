@@ -24,20 +24,20 @@ echo "
 
                         <!--Foot widget-->
                         <div class=\"col-xs-12 col-sm-6 col-md-3 recent-post-foot foot-widget\">
-                        	<div class=\"foot-widget-title\">Notícias Recentes</div>
+                        	<div class=\"foot-widget-title\">Dicas do Salic</div>
                         	<ul>
-                            	<li><a href=\"#\">Texto da Notícia do SALIC<br /><span class=\"event-date\">20 de Maio de 2016</span></a></li>
-                                <li><a href=\"#\">Texto da Notícia do SALIC<br /><span class=\"event-date\">20 de Maio de 2016</span></a></li>
-                                <li><a href=\"#\">Texto da Notícia do SALIC<br /><span class=\"event-date\">20 de Maio de 2016</span></a></li>
+                            	<li><a href=\"#\">Desenvolva a prestação de contas ao longo da execução do projeto!<br /></a></li>
+                                <li><a href=\"#\">Até 20% do valor aprovado, você mesmo faz seu remanejamento<br /></a></li>
+                                <li><a href=\"#\">Sobrou saldo?<br /></a></li>
                             </ul>
                         </div>
 
                          <!--Foot widget-->
                         <div class=\"col-xs-12 col-sm-6 col-md-3 recent-tweet-foot foot-widget\">
-                        	<div class=\"foot-widget-title\">Notícias sobre o SALIC</div>
+                        	<div class=\"foot-widget-title\">Outras Dicas do Salic</div>
                         	<ul>
-                            	<li>Texto da Notícia do SALIC<br /><span class=\"event-date\">17 Maio de 2016</span></li>
-                                <li>Texto da Notícia do SALIC<br /><span class=\"event-date\">17 Maio de 2016<</span></li>
+                            	<li><a href=\"#\">Atente-se para a data de emissão dos documentos fiscais.</a><br /></li>
+                                <li><a href=\"#\">Praticamente todas as extensões de arquivos de imagens podem ser inseridas no Salic</a><br /></li>
                             </ul>
                         </div>
 
@@ -47,9 +47,9 @@ echo "
                             <div class=\"social-wrap\">
                                 <ul>
                                 <li><a href=\"#\"><i class=\"icon-facebook foot-social-icon\" id=\"face-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Facebook\"></i></a></li>
-                                <li><a href=\"#\"><i class=\"icon-social-twitter foot-social-icon\" id=\"tweet-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Twitter\"></i></a></li>
-                                <li><a href=\"#\"><i class=\"icon-google-plus foot-social-icon\" id=\"gplus-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Google+\"></i></a></li>
-                                <li><a href=\"#\"><i class=\"icon-linkedin foot-social-icon\" id=\"link-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Linked in\"></i></a></li>
+                                <!--<li><a href=\"#\"><i class=\"icon-social-twitter foot-social-icon\" id=\"tweet-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Twitter\"></i></a></li>-->
+                                <!--<li><a href=\"#\"><i class=\"icon-google-plus foot-social-icon\" id=\"gplus-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Google+\"></i></a></li>-->
+                                <!--<li><a href=\"#\"><i class=\"icon-linkedin foot-social-icon\" id=\"link-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Linked in\"></i></a></li>-->
                                 <li><a href=\"#\"><i class=\"icon-rss foot-social-icon\" id=\"rss-foot\" data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"RSS\"></i></a></li>
                                 </ul>
                             </div>
