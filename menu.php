@@ -41,17 +41,12 @@ echo "
 
                             <li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><i class=\"icon-cog\"></i>Dúvidas<b class=\"icon-angle-down\"></b></a>
                                 <ul class=\"dropdown-menu\">
-                                    <li><a href=\"#\">Análise Inicial</a></li>
-                                    <li><a href=\"#\">Acompanhamento da Execução</a></li>
-                                    <li><a href=\"#\">Prestação de Contas: Análise do Cumprimento do Objeto</a></li>
-                                    <li><a href=\"#\">Prestação de Contas: Financeira</a></li>
-
-
-                                  </ul>
+                                    <li><a href=\"analise-inicial.php\">Análise Inicial</a></li>
+                                    <li><a href=\"acompanhamento-execucao.php\">Acompanhamento da Execução</a></li>
+                                    <li><a href=\"prestacao-contas-objeto.php\">Prestação de Contas: Análise do Cumprimento do Objeto</a></li>
+                                    <li><a href=\"prestacao-contas-financeira.php\">Prestação de Contas: Financeira</a></li>
+                                </ul>
                             </li>
-
-
-
 
                             <li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><i class=\"icon-cog\"></i>Tutoriais<b class=\"icon-angle-down\"></b></a>
                                 <ul class=\"dropdown-menu\">
