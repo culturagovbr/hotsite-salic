@@ -26,18 +26,18 @@ echo "
                         <div class=\"col-xs-12 col-sm-6 col-md-3 recent-post-foot foot-widget\">
                         	<div class=\"foot-widget-title\">Dicas do Salic</div>
                         	<ul>
-                            	<li><a href=\"#\">Desenvolva a prestação de contas ao longo da execução do projeto!<br /></a></li>
-                                <li><a href=\"#\">Até 20% do valor aprovado, você mesmo faz seu remanejamento<br /></a></li>
-                                <li><a href=\"#\">Sobrou saldo?<br /></a></li>
+                            	<li><a href=\"Dicas-do-Salic-4.php\">Desenvolva a prestação de contas ao longo da execução do projeto!<br /></a></li>
+                                <li><a href=\"Dicas-do-Salic-5.php\">Até 20% do valor aprovado, você mesmo faz seu remanejamento<br /></a></li>
+                                <li><a href=\"Dicas-do-Salic-6.php\">Sobrou saldo?<br /></a></li>
                             </ul>
                         </div>
 
                          <!--Foot widget-->
-                        <div class=\"col-xs-12 col-sm-6 col-md-3 recent-tweet-foot foot-widget\">
+                        <div class=\"col-xs-12 col-sm-6 col-md-3 recent-post-foot  foot-widget\">
                         	<div class=\"foot-widget-title\">Outras Dicas do Salic</div>
                         	<ul>
-                            	<li><a href=\"#\">Atente-se para a data de emissão dos documentos fiscais.</a><br /></li>
-                                <li><a href=\"#\">Praticamente todas as extensões de arquivos de imagens podem ser inseridas no Salic</a><br /></li>
+                            	<li><a href=\"Dicas-do-Salic-7.php\">Atente-se para a data de emissão dos documentos fiscais.</a><br /></li>
+                                <li><a href=\"Dicas-do-Salic-8.php\">Praticamente todas as extensões de arquivos de imagens podem ser inseridas no Salic</a><br /></li>
                             </ul>
                         </div>
 

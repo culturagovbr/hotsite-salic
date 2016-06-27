@@ -72,7 +72,7 @@
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-                        <div class="iconbox-readmore"><a href="#">Leia mais</a></div>
+                        <div class="iconbox-readmore"><a href="Dicas-do-Salic-1.php">Leia mais</a></div>
                      </div>
                     </div>
 
@@ -87,7 +87,7 @@
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-                        <div class="iconbox-readmore"><a href="#">Leia mais</a></div>
+                        <div class="iconbox-readmore"><a href="Dicas-do-Salic-2.php">Leia mais</a></div>
                      </div>
                     </div>
 
@@ -102,7 +102,7 @@
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-                        <div class="iconbox-readmore"><a href="#">Leia mais</a></div>
+                        <div class="iconbox-readmore"><a href="Dicas-do-Salic-3.php">Leia mais</a></div>
                      </div>
                     </div>
 
@@ -118,12 +118,12 @@
                                 <a href="#" data-hover="Read More"><span>Read More</span></a>
                                 </nav>
                             </section>-->
-                            <div class="iconbox-readmore"><a href="#">Leia mais</a></div>
+                            <div class="iconbox-readmore"><a href="Dicas-do-Salic-4.php">Leia mais</a></div>
                         </div>
                     </div>
 
                 </div>
-                    <a href="#" class="btn btn-warning">Visualizar Todas as Dicas do Salic</a><br><br>
+                    <a href="Visualizar-Dicas-Salic.php" class="btn btn-warning">Visualizar Todas as Dicas do Salic</a><br><br>
                 </div>
 
             </div><!--Icon Boxes 1 end-->
@@ -147,7 +147,7 @@
                                 <div class="subtitle notViewed wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="20">Baixe agora <span class="iconlist-mid-title">o aplicativo </span> do Salic </div>
                                 <ul>
                                 	<li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="50">
-                                	<i class="revicon-equalizer icon-list-icons"></i>
+                                	<i class="icon-list-icons"></i>
                                 	<div class="iconlist-content">
 
                                     	<div class="iconlist-title">Salic Mobile</div>
