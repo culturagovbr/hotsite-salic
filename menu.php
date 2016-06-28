@@ -58,7 +58,18 @@ echo "
                             </li>
 
 
-                            <li><a href=\"MenuInformativos.php\">Informativos</a></li>
+                            <!--<li><a href=\"alteracoes-art-64.php\">Informativos</a></li>-->
+                            <li class=\"dropdown\"><a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><i class=\"icon-cog\"></i>Informativos<b class=\"icon-angle-down\"></b></a>
+                                <ul class=\"dropdown-menu\">
+                                    <li><a href=\"alteracoes-art-64.php\">Alterações Art. 64</a></li>
+                                    <li><a href=\"analise-tecnica-art-39.php\">Análise Técnica Art. 39</a></li>
+                                    <li><a href=\"aprovacao-em-regime-de-urgencia-art-42.php\">Aprovação em Regime de Urgência Art. 42</a></li>
+                                    <li><a href=\"comunicacao-oficial-salic-art-107.php\">Comunicação Oficial (SALIC) Art. 107</a></li>
+                                    <li><a href=\"custos-de-divulgacao-20-art-23.php\">Custos de Divulgação (20%) Art. 23</a></li>
+                                    <li><a href=\"democratizacao-de-acesso-art-30.php\">Democratização de Acesso Art. 30</a></li>
+                                    <li><a href=\"despesas-administrativas-art-36.php\">Despesas Administrativas Art. 36</a></li>
+                                </ul>
+                            </li>
 
                             <li><a href=\"Numeros.php\">Números</a></li>
 

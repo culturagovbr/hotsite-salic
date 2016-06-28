@@ -7,7 +7,7 @@
  */
 
 echo "
-Portal SALIC
+Salic - Sistema de Apoio às Leis de Incentivo à Cultura
 ";
 
 ?>

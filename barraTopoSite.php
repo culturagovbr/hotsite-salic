@@ -29,7 +29,7 @@ echo "
                                 </ul>
                             </div>
 
-                            <div class=\"top-info-contact pull-right col-md-8\">  Telefones: (61) 2024-2098 / 2024-2249  | proposta.incentivo@cultura.gov.br <a href='http://novosalic.cultura.gov.br/'> <img src='images/MenuAcessoSalic.png'></a>
+                            <div class=\"top-info-contact pull-right col-md-8\">  Telefone para Contato: (61) 2024-2000 | <a href='http://novosalic.cultura.gov.br/'> <img src='images/MenuAcessoSalic.png'></a>
                                <!-- <div id=\"search\" class=\"fa fa-search search-head\">
                             </div>-->
 
