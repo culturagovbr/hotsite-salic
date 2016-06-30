@@ -268,7 +268,7 @@
                  <!--Latest Post End-->
                  <!--Departments Start-->
                     <div class="subtitle pull-left">  Dúvidas   </div>
-                            <a href="#" ><img src="images/Banner_Home.png"></a>
+                            <a href="analise-inicial.php" ><img src="images/Banner_Home.png"></a>
                     </div>
                  <!--Departments End-->
                  </div>
