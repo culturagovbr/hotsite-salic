@@ -29,7 +29,7 @@ echo "
                                 </ul>
                             </div>
 
-                            <div class=\"top-info-contact pull-right col-md-8\">  Telefone para Contato: (61) 2024-2000 | <a href='/salic'> <img src='images/MenuAcessoSalic.png'></a>
+                            <div class=\"top-info-contact pull-right col-md-8\">  Telefone para Contato: (61) 2024-2000 | <a href='salic'> <img src='images/MenuAcessoSalic.png'></a>
                                <!-- <div id=\"search\" class=\"fa fa-search search-head\">
                             </div>-->
 
