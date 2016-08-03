@@ -11,6 +11,7 @@
     <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
 
     <link href="css/jquery-ui-1.10.3.custom.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
     <link href="css/animate.css" rel="stylesheet" />
     <link href="css/font-awesome.min.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="css/green.css" id="style-switch" />
@@ -66,7 +67,7 @@
                      <div class="icon-box-3 wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="150">
                     	<div><img src="images/dica_1.png"> </div>
                         <div class="icon-box2-title">Atente-se ao nome de sua Proposta Cultural!</div>
-                        <p>O título deve dar ideia concisa e clara do que será realizado e fazer referência ao objeto do seu projeto cultural...</p>
+                        <p>O título deve dar ideia concisa e clara do que será realizado e fazer referência ao objeto do seu projeto...</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
@@ -80,7 +81,7 @@
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                      <div class="icon-box-3 wow fadeInDown" data-wow-delay="0.9s" data-wow-offset="150">
                          <div><img src="images/dica_2.png"> </div>
-                        <div class="icon-box2-title">Ao escrever o resumo da sua proposta cultural</div>
+                        <div class="icon-box2-title">Como escrever o resumo da sua proposta cultural</div>
                         <p>O resumo do seu projeto cultural deve descrever o que se pretende realizar em no máximo 5 linhas, limitado ao...</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
@@ -96,7 +97,7 @@
                      <div class="icon-box-3 wow fadeInUp" data-wow-delay="1.2s" data-wow-offset="150">
                          <div><img src="images/dica_3.png"> </div>
                         <div class="icon-box2-title">Todos os seus objetivos descritos serão avaliados</div>
-                        <p>Os objetivos devem ser formulados com intuito de especificar aquilo que se quer atingir a partir da realização do...</p>
+                        <p>Os objetivos devem ser formulados com intuito de especificar aquilo que se quer atingir a partir da realização...</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
@@ -111,7 +112,7 @@
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                         <div class="icon-box-3 wow fadeInDown" data-wow-delay="0.9s" data-wow-offset="150">
                             <div><img src="images/dica_4.png"> </div>
-                            <div class="icon-box2-title">Desenvolva a prestação de contas ao longo </div>
+                            <div class="icon-box2-title">Preste contas ao longo da execução do projeto</div>
                             <p>A prestação de contas do projeto traduz toda sua implementação. Desta maneira, adequados planejamento e...</p>
                             <!--<section class="color-10">
                                 <nav class="cl-effect-10">
@@ -141,7 +142,7 @@
 
                           <div class="bg col-lg-4 col-sm-4 col-md-5 col-xs-12 notViewed wow fadeInUp" data-wow-delay="1.5s" data-wow-offset="200"></div>
 
-                            <div class="float-right col-lg-7 col-sm-7 col-md-7 col-xs-12">
+                            <div class="float-right col-lg-7 col-sm-7 col-md-7 col-xs-12" id="mobile">
 
                                 <div class="iconlist-wrap">
                                 <div class="subtitle notViewed wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="20">Baixe agora <span class="iconlist-mid-title">o aplicativo </span> do Salic </div>
@@ -165,8 +166,10 @@
                                     <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="50">
 
                                         <div class="iconlist-content">
-
-                                            <a href="#"> <img src="images/mobileMono.png"> </a>
+					  <ul>
+					    <li><a href="https://play.google.com/store"><img src="images/PlayStore.png" /></a></li>
+					    <li><a href="http://www.apple.com/br/itunes/charts/free-apps/"><img src="images/AppStore.png" /></a></li>
+					  </ul>
                                         </div>
 
                                     </li>
@@ -195,7 +198,6 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 pull-right">
                         <div class="purchase-strip-blue pull-right col-sm-12 col-md-12 col-xs-12 pull-left notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150">
-                        <div class="purchase-strip-text">Faça seu download do aplicativo  <span class="ipurcahse-strip-text">Salic mobile </span>aqui!</div>
                         <div class="color-4">
                             <p class="ipurchase-paragraph">
                                 <button class="icon-envelope btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150" onclick="window.location.href='DownloadAppSalic.php'">Faça o Download</button>
@@ -230,14 +232,13 @@
         	                        <div class="post-meta-top pull-left">
         	                            <ul>
         	                            <li><i class="icon-calendar"></i>25 MAIO 2016</li>
-        	                            <li><a href="#"><i class="icon-comments"></i>3</a></li>
         	                            </ul>
         	                        </div>
                                 </div>
                                 <div class="post-content2 pull-left">
                                 	<p>O presente guia trata das questões operacionais relacionadas ao Sistema SALIC,
                                         envolvendo procedimentos a serem observados pelo usuário.<br />
-                                	<span class="post-meta-bottom"><a href="Tutoriais.php">Continua lendo...</a></span></p>
+                                	<span class="post-meta-bottom"><a href="Tutoriais.php#c">Continuar lendo...</a></span></p>
                          		</div>
                          </div>
 
@@ -245,11 +246,10 @@
                         <div class="post-item-wrap pull-left col-sm-6 col-md-12 col-xs-12">
                             <img src="images/news-2.jpg" class="img-responsive post-author-img" alt="" />
                             <div class="post-content1 pull-left col-md-9 col-sm-9 col-xs-8">
-        	                        <div class="post-title pull-left"><a href="Tutoriais.php">Envio de Marcas</a></div>
+        	                        <div class="post-title pull-left"><a href="Tutoriais.php#c">Envio de Marcas</a></div>
         	                        <div class="post-meta-top pull-left">
         	                            <ul>
         	                            <li><i class="icon-calendar"></i>25 MAIO 2016</li>
-        	                            <li><a href="#"><i class="icon-comments"></i>3</a></li>
         	                            </ul>
         	                        </div>
                                 </div>
@@ -257,7 +257,7 @@
                                 	<p>Para facilitar o entendimento do sistema por parte dos usuários foi desenvolvido o
                                         presente manual. Este documento visa apresentar as novas telas do Sistema SALIC e
                                         suas respectivas funcionalidades...<br />
-                                	<span class="post-meta-bottom"><a href="Tutoriais.php">Continua lendo...</a></span></p>
+                                	<span class="post-meta-bottom"><a href="Tutoriais.php">Continuar lendo...</a></span></p>
                          		</div>
                          </div>
 
@@ -313,7 +313,6 @@
 
                         </ul>
                     </div>
-                    <a href="javascript:void(0);" class="settings_link showup"><i class="fa fa-cog"></i></a>
                 </div>
              </div>
 

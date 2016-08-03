@@ -149,7 +149,6 @@
 
                 </ul>
             </div>
-            <a href="javascript:void(0);" class="settings_link showup"><i class="fa fa-cog"></i></a>
         </div>
 
      </section>
