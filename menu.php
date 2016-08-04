@@ -52,6 +52,7 @@ echo "
                                 <ul class=\"dropdown-menu\">
                                     <li><a href=\"Tutoriais.php\">Manuais</a></li>
                                     <li><a href=\"Cartilha.php\">Cartilha</a></li>
+                                    <li><a href=\"Video.php\">Vídeos</a></li>
 
 
                                   </ul>

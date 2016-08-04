@@ -71,14 +71,41 @@
 
               <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
 
-
-                  <iframe width="560" height="420" src="https://www.youtube.com/embed/1DmYbBkKht0?list=PLQyov2tGS-504LJoutsZAuYhhQa3bUJIa" frameborder="0" allowfullscreen></iframe>
+                  <div class="dept-title-tabs">O que é a CNIC?</div><br>
+                  <iframe width="560" height="420" src="https://www.youtube.com/embed/xznmd7uu4-I?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
 
 
               </div>
 
 
-                <div class="col-xs-12 col-sm-8 col-md-6 col-lg-6 no-pad">
+                <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
+
+                    <div class="dept-title-tabs">Quem são os Comissários?</div><br>
+                    <iframe width="560" height="420" src="https://www.youtube.com/embed/zbQGWHlC7aI?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
+
+
+                </div>
+
+
+                <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
+
+
+                    <iframe width="560" height="420" src="https://www.youtube.com/embed/AVTnv7Fzd9A?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
+                    <div class="dept-title-tabs">Como os projetos são analisados?</div>
+
+                </div>
+
+
+                <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
+
+
+                    <iframe width="560" height="420" src="https://www.youtube.com/embed/cK5qLqh0Zck?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
+                    <div class="dept-title-tabs">O que um projeto precisa para ser aprovado?</div>
+
+                </div>
+
+
+                <!--<div class="col-xs-12 col-sm-8 col-md-6 col-lg-6 no-pad">
                 <p>Aenean cursus fermentum euismod. Cras sodales nibh sed egestas adipiscing. Vestibulum sit amet eros sapien. Vestibulum quis dapibus sem. Fusce a lacinia nisl. Mauris sagittis egestas justo. Praesent tempus quis nibh nec imperdiet.</p>
                 
                 <ul>
@@ -102,7 +129,7 @@
                 </nav>
                 </section>
                 <a href="#" class="inner-page-butt-blue"><i class="fa fa-cogs inner-page-butt-blue-icon"></i>Ver todos os vídeos</a>-->
-                </div>
+                <!--</div>-->
 
             </div>
             

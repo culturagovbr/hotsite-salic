@@ -1,0 +1,408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" dir="ltr">
+
+<head>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta charset="ISO-8859-1">
+    <title>Salic - Sistema</title>
+
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/touch_icon.png">
+
+    <!-- Plone CSS - only for preview, will be removed in rules.xml -->
+    <link media="screen" href="css/plone.css" type="text/css" rel="stylesheet" id="plone-css">
+
+    <!-- Theme CSS - only for preview, will be removed in rules and added in CSS registry -->
+    <link media="all" href="css/main.css" type="text/css" rel="stylesheet" id="main-css">
+    <link media="all" href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+    <ul id="menu-barra-temp" style="list-style:none;">
+        <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+        <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+    </ul>
+</div>
+
+    <!--<div id="user">
+        <ul>
+            <li>
+                <a href="#" title="Login">Login</a>
+            </li>
+        </ul>
+    </div>-->
+
+    <div id="wrapper">
+
+        <!-- HEADER -->
+
+
+        <div id="header" role="banner">
+
+
+            <div>
+
+                <ul id="accessibility">
+                    <li>
+                        <a accesskey="1" href="#acontent" id="link-conteudo">
+                            Ir para o conte&uacute;do
+                            <span>1</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a accesskey="2" href="#anavigation" id="link-navegacao">
+                            Ir para o menu
+                            <span>2</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a accesskey="3" href="#SearchableText" id="link-buscar">
+                            Ir para a busca
+                            <span>3</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a accesskey="4" href="#afooter" id="link-rodape">
+                            Ir para o rodap&eacute;
+                            <span>4</span>
+                        </a>
+                    </li>
+                </ul>
+
+                
+            <ul id="language" class="hidden">
+                <li class="language-es">
+                    <a href="#">Espa&#241;ol</a>
+                </li>
+                <li class="language-en">
+                    <a href="#">English</a>
+                </li>
+            </ul>
+            
+            <ul id="portal-siteactions">
+                <li>
+                    <a href="#">Acessibilidade</a>
+                </li>
+                <li>
+                    <a href="#">Alto Contraste</a>
+                </li>
+                <li>
+                    <a href="#">Mapa do Site</a>
+                </li>
+            </ul>
+
+
+
+            <div id="logo">
+
+                <a href="#" title="#">
+                    <span id="portal-title">Seja Bem-vindo</span>
+                    <span id="portal-description"> ao Sistema de Apoio às Leis de Incentivo à Cultura </span>
+                </a>
+
+            </div>
+
+
+
+           <div id="portal-searchbox" role="search">
+                <form>
+<button class="button-nav btn btn-orange">Voltar ao Portal</button>
+
+                </form>
+            </div>
+
+
+            <div id="social-icons">
+                <ul>
+                    <li>
+                        <a href="#" title="Facebook">
+                            <img src="img/icone-facebook.png" alt="Facebook" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" title="Twitter">
+                            <img src="img/icone-twitter.png" alt="Twitter" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" title="Youtube">
+                            <img src="img/icone-youtube.png" alt="Youtube" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" title="Flickr">
+                            <img src="img/icone-flickr.png" alt="Flickr" />
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+
+
+        </div>
+
+            <!-- Form do Login -->
+
+
+
+            <div  align="right" style="background: rgba(255,255,255,0.2); border: 1px solid #ccc;  -moz-box-shadow: 0 3px 0 rgba(12,12,12,0.03);    -webkit-box-shadow: 0 3px 0 rgba(12,12,12,0.03);   box-shadow: 0 3px 0 rgba(12,12,12,0.03);    -moz-border-radius: 3px;    -webkit-border-radius: 3px;    border-radius: 3px;    padding: 30px;  text-align: right;">
+
+                <form method="post" action="#">
+                    <h1 class="tituloH1">Acesso ao Salic</h1>
+
+                    <input type="text" class="form-control uname" placeholder="CPF" />
+                    <input type="password" class="form-control pword" placeholder="Senha" /><br><br>
+                    <a href="#"><small>Não sou cadastrado</small></a> | <a href="#"><small>Esqueceu a Senha?</small></a>
+                    <button class="btn btn-success btn-block">Confirmar</button>
+
+                </form>
+            </div>
+
+
+
+            <!-- Fim do Form do Login -->
+
+            <img class="portal-logo" src="img/logo.png" alt=""/>
+
+        <div id="sobre">
+            <ul>
+                <li id="link-sobre">
+                    <a href="#">Primeiros Passos</a> |
+                </li>
+                <li id="link-sobre">
+                    <a href="#">Dicas do Salic</a> |
+                </li>
+                <li id="link-sobre">
+                    <a href="#">Normativos</a> |
+                </li>
+                <li id="link-central">
+                    <a href="#">Atendimento</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- content -->
+
+
+
+
+<!-- Footer -->
+<div id="footer" role="contentinfo">
+    <a name="afooter" id="afooter"></a>
+
+    <div id="doormat">
+        <div id="doormat-container" class="columns-4">
+
+
+            <div class="doormatColumn column-0">
+
+                <dl class="doormatSection"><dt class="doormatSectionHeader">Informações</dt>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Instituicional</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Carta de Serviços</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Programas e Ações</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Incentivo Fiscal</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Metas</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Auditorias</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Colegiados do MinC</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Convênios</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Despesas</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Licitações</a>
+
+                    </dd>
+                </dl>
+            </div>
+
+
+
+            <div class="doormatColumn column-1">
+
+                <dl class="doormatSection"><dt class="doormatSectionHeader">O Ministério</dt>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Por dentro do MinC</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">O Ministro</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Agenda do Ministro</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Agenda das autoridades</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Histórico</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Secretarias</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Diretorias</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Entidades Vinculadas</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link">Representações Regionais</a>
+
+                    </dd>
+
+                </dl>
+            </div>
+
+            <div class="doormatColumn column-2">
+
+                <dl class="doormatSection"><dt class="doormatSectionHeader">Redes sociais</dt>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Facebook</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Twitter</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Instagram</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Slideshare</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">YouTube</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Soundcloud</a>
+
+                    </dd>
+                    <dd class="doormatSectionBody">
+                        <a href="#" class="external-link" target="_blank">Flickr</a>
+
+                    </dd>
+                </dl>
+                <dl class="doormatSection"><dt class="doormatSectionHeader">Ouvidoria</dt>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link">Ouvidoria do MinC</a>
+
+                </dd>
+            </dl>
+            </div>
+
+
+
+
+
+        </div>
+
+
+
+        <div class="doormatColumn column-5">
+
+            <dl class="doormatSection"><dt class="doormatSectionHeader">Informações</dt>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link" target="_blank">Instituicional</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link" target="_blank">Carta de Serviços</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link" target="_blank">Programas e Ações</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link" target="_blank">Incentivo Fiscal</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link">Metas</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link">Auditorias</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link" target="_blank">Colegiados do MinC</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link">Convênios</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link">Despesas</a>
+
+                </dd>
+                <dd class="doormatSectionBody">
+                    <a href="#" class="external-link">Licitações</a>
+
+                </dd>
+            </dl>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer-brasil" class="footer-logos">
+        <div>
+            <a href="http://www.acessoainformacao.gov.br/" class="logo-acesso">
+                <img src="img/acesso-a-infornacao.png" alt="Acesso a Informa&ccedil;&atilde;o" />
+            </a>
+            <a href="http://www.brasil.gov.br/" class="logo-brasil">
+                <img src="img/brasil.png" alt="Brasil - Governo Federal" />
+            </a>
+        </div>
+    </div>
+</div>
+<div id="extra-footer">
+    <p>
+    MinC - Ministério da Cultura
+    <a href="http://plone.org">2016</a>
+    </p>
+</div>
+
+<!-- /Footer-->
+</body>
+<script defer="defer" src="//barra.brasil.gov.br/barra.js" type="text/javascript"></script>
+</html>
+
