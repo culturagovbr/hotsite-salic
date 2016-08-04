@@ -72,7 +72,7 @@
               <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
 
                   <div class="dept-title-tabs">O que é a CNIC?</div><br>
-                  <iframe width="560" height="420" src="https://www.youtube.com/embed/xznmd7uu4-I?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
+                  <iframe width="560" height="420" src="https://www.youtube.com/embed/xznmd7uu4-I" frameborder="0" allowfullscreen></iframe>
 
 
               </div>
@@ -81,7 +81,7 @@
                 <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
 
                     <div class="dept-title-tabs">Quem são os Comissários?</div><br>
-                    <iframe width="560" height="420" src="https://www.youtube.com/embed/zbQGWHlC7aI?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="420" src="https://www.youtube.com/embed/zbQGWHlC7aI" frameborder="0" allowfullscreen></iframe>
 
 
                 </div>
@@ -90,7 +90,7 @@
                 <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
 
 
-                    <iframe width="560" height="420" src="https://www.youtube.com/embed/AVTnv7Fzd9A?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="420" src="https://www.youtube.com/embed/AVTnv7Fzd9A" frameborder="0" allowfullscreen></iframe>
                     <div class="dept-title-tabs">Como os projetos são analisados?</div>
 
                 </div>
@@ -99,7 +99,7 @@
                 <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 no-pad">
 
 
-                    <iframe width="560" height="420" src="https://www.youtube.com/embed/cK5qLqh0Zck?list=PL8AWdr87f1TSLvEI5Bn7J-D0NBMLb7kzu" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="420" src="https://www.youtube.com/embed/cK5qLqh0Zck" frameborder="0" allowfullscreen></iframe>
                     <div class="dept-title-tabs">O que um projeto precisa para ser aprovado?</div>
 
                 </div>
