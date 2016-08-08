@@ -111,15 +111,15 @@
                     <!--Icon-box-start-->
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                         <div class="icon-box-3 wow fadeInDown" data-wow-delay="0.9s" data-wow-offset="150">
-                            <div><img src="images/dica_4.png"> </div>
-                            <div class="icon-box2-title">Preste contas ao longo da execução do projeto</div>
-                            <p>A prestação de contas do projeto traduz toda sua implementação. Desta maneira, adequados planejamento e...</p>
+                            <div><iframe width="261" height="135" src="https://www.youtube.com/embed/xznmd7uu4-I" frameborder="0" allowfullscreen></iframe> </div>
+                            <div class="icon-box2-title">O que é a CNIC?</div>
+                            <p>Você sabia que a sociedade civil participa diretamente do processo de escolha dos projetos que são autorizados a captar recursos por meio da Lei Rouanet?</p>
                             <!--<section class="color-10">
                                 <nav class="cl-effect-10">
                                 <a href="#" data-hover="Read More"><span>Read More</span></a>
                                 </nav>
                             </section>-->
-                            <div class="iconbox-readmore"><a href="Dicas-do-Salic-4.php">Leia mais</a></div>
+                            <div class="iconbox-readmore"><a href="Video.php">Veja mais Vídeos</a></div>
                         </div>
                     </div>
 
