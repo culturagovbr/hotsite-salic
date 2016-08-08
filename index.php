@@ -268,31 +268,31 @@
                  <!--Latest Post End-->
                  <!--Departments Start-->
                     <div class="subtitle pull-left">  Dúvidas   </div>
-                            <a href="analise-inicial.php" ><img src="images/Banner_Home.png"></a>
+                            <a href="analise-inicial.php" ><img src="images/Banner_Home.png" height="420px" width="555"></a>
                     </div>
                  <!--Departments End-->
                  </div>
                  </div>
 
-                 <div class="cl-wrap icl-wrap">
-                 <div class="container">
+    <!-- <div class="cl-wrap icl-wrap">
+   <div class="container">
 
-                 <!--<div class="row">
-                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pull-left client-logo-flex wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="100">
+ <div class="row">
+       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pull-left client-logo-flex wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="100">
 
-        	             <ul id="clients-carousel" class="icl-carousel">
-        	                <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	            </ul>
+           <ul id="clients-carousel" class="icl-carousel">
+              <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
+              <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
+              <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
+              <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
+              <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
+              <li><a href="#"><img src="images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
+          </ul>
 
-                     </div>
-                 </div>-->
+       </div>
+   </div>
 
-                 </div></div>
+   </div></div>-->
 
                <!--Footer Start-->
 

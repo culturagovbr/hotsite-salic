@@ -31,7 +31,7 @@ echo "
 
 
                       <ul class=\"nav navbar-nav navbar-right\">
-                            <li class=\"active\"><a href=\"index.php\"><i class=\"icon-home\"></i>Home</a></li>
+                            <li><a href=\"index.php\"><i class=\"icon-home\"></i>Home</a></li>
 
                             <li><a href=\"PrimeirasOrientacoes.php\">Primeiros Passos</a></li>
 

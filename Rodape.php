@@ -18,6 +18,7 @@ echo "
                         	<div class=\"col-xs-12 no-pad\"><i class=\"icon-globe address-icons\"></i>Ministério da Cultura <br />Esplanada dos Ministérios,  <br />Bloco B CEP: 70068-900 – Brasília/DF</div>
                             <div class=\"col-xs-12 no-pad\"><i class=\"icon-phone2 address-icons\"></i>(61) 2024-2000</div>
 
+
                             <!--<div class=\"col-xs-12 no-pad\"><i class=\"icon-mail address-icons\"></i>proposta.incentivo@cultura.gov.br</div>-->
                         </address>
                         </div>
@@ -54,6 +55,8 @@ echo "
                                 </ul>
                             </div>
                         </div>
+                        <br><br><br>
+                        <a href=\"http://ouvidoria.cultura.gov.br\" target='_blank'><img src=\"images/ouvidoria.png\"></a>
 
                     </div>
                	 </div>
