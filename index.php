@@ -145,7 +145,7 @@
                             <div class="float-right col-lg-7 col-sm-7 col-md-7 col-xs-12" id="mobile">
 
                                 <div class="iconlist-wrap">
-                                <div class="subtitle notViewed wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="20">Baixe agora <span class="iconlist-mid-title">o aplicativo </span> do Salic </div>
+                                <div class="subtitle notViewed wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="20">Breve: <span class="iconlist-mid-title">aplicativo </span> do Salic </div>
                                 <ul>
                                 	<li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="50">
                                 	<i class="icon-list-icons"></i>
@@ -164,11 +164,19 @@
 
 
                                     <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="50">
-
+				      
                                         <div class="iconlist-content">
 					  <ul>
-					    <li><a href="https://play.google.com/store"><img src="images/PlayStore.png" /></a></li>
-					    <li><a href="http://www.apple.com/br/itunes/charts/free-apps/"><img src="images/AppStore.png" /></a></li>
+					    <li>
+					      <!--<a href="https://play.google.com/store"> -->
+					      <img src="images/PlayStore.png" />
+					      <!--</a>-->
+					    </li>
+					    <li>
+					      <!--<a href="http://www.apple.com/br/itunes/charts/free-apps/">-->
+					      <img src="images/AppStore.png" />
+					      <!--</a>-->
+					    </li>
 					  </ul>
                                         </div>
 
@@ -199,8 +207,8 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 pull-right">
                         <div class="purchase-strip-blue pull-right col-sm-12 col-md-12 col-xs-12 pull-left notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150">
                         <div class="color-4">
-                            <p class="ipurchase-paragraph">
-                                <button class="icon-envelope btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150" onclick="window.location.href='DownloadAppSalic.php'">Faça o Download</button>
+                          <p class="ipurchase-paragraph">
+			    <!--                                <button class="icon-envelope btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150" onclick="window.location.href='DownloadAppSalic.php'">Faça o Download</button>-->
                             </p>
                         </div>
 
